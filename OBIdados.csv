@@ -1,0 +1,1565 @@
+Classif.,Nome,Escola,Cidade,Estado,NaN,Pontos,Ano
+1,Michel Silva Machado,PUC-Rio,Rio de Janeiro,RJ,NF,0,1999
+2,Daniel Felix Ferber,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,1999
+3,Andre Alberto Taffarello,DC/UFSCar,São Carlos,SP,NF,0,1999
+4,Douglas Fabiano Vieira P. Silva,ICMC-USP,São Carlos,SP,NF,0,1999
+5,Vinícius José Fortuna,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,1999
+6,Marco Arthur Pereira Candolo,ICMC - USP,São Carlos,SP,NF,0,1999
+7,Alexandre Maia de Almeida,Universidade Federal Fluminense,Rio de Janeiro,RJ,NF,0,1999
+7,Alysson Castro de Brito,Fundação de Ensino e Pesquisa Matias Machline,Manaus,AM,NF,0,1999
+7,Andre Luiz Garkauskas,DC/UFSCar,São Carlos,SP,NF,0,1999
+7,Jean Rocha Rodrigues,Universidade Santa Cecília,São Paulo,SP,NF,0,1999
+7,Jose Eduardo Gaboardi de Carvalho,IME-USP,São Paulo,SP,NF,0,1999
+7,Rulye Nazário de Oliveira,FACIC -- Sociedade Lageana de Educação,Lages,SC,NF,0,1999
+7,Wellington da Silva Mariusso,Colégio Técnico de Campinas/Unicamp,Campinas,SP,NF,0,1999
+1,Ramide A. Sales Dantas,Centro Federal de Educacao Tecnologica da Paraiba,Joao Pessoa,PB,NF,0,2000
+2,Alexandre Pereira da Silva,Instituto de Matemática e Estatística - USP,São Paulo,SP,NF,0,2000
+3,Alysson Castro de Brito,Fundação Matias Machline,Manaus,AM,NF,0,2000
+4,Artur Manoel Passos,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+5,Mario Augusto de Souza Lizier,ICMC - USP,São Carlos,SP,NF,0,2000
+6,Marcelo Tutomu Kanemaru,Unicentro Newton Paiva,Belo Horizonte,MG,NF,0,2000
+7,Guilherme Santos Mazzela,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+8,Celso Tetsuo Nagase Suzuki,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+9,Edson Mikio Nishida,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2000
+10,Marcos Vinicius Candido Henriques,Universidade Federal do Rio Grande do Norte,Natal,RN,NF,0,2000
+10,Renato Machado de Sousa,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+12,Alan de Paula Lima,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+12,Felipe Santos Boffo,FURG - Colégio Técnico Industrial,Rio Grande,RS,NF,0,2000
+12,Hugo Raniere Di Assunção Brasilino,Universidade Federal da Paraíba - Campus II,Campina Grande,PB,NF,0,2000
+12,Rafael Quaresma Kitauchi,Fundação Matias Machline,Manaus,AM,NF,0,2000
+12,Thiago Meneghello,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2000
+17,Michael Shigeki Onishi,Universidade de Brasília,Brasília,DF,NF,0,2000
+18,Anderson Luiz Brunozi,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+18,Eduardo Pereira Habkost,Escola Técnica da Universidade Federal do Paraná,Curitiba,PR,NF,0,2000
+18,Vito Alexis Di Leo Gremmelspacher,Instituto de Matemática e Estatística - USP,São Paulo,SP,NF,0,2000
+21,Henrique Cintra Carvalho,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2000
+21,Luiz Carlos Portela Tordin,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2000
+21,Marcel Abrantes,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+21,Ricardo Cesar Oliveira,UNI-BH - Centro Universitário de Belo Horizonte,Belo Horizonte,MG,NF,0,2000
+25,Angelo Vinicius A. Sposito,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2000
+25,Israel Rios,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2000
+25,Johnatan Nelson Canal,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+25,LUCIANO BARCARO,Unipan - União Pan-americana de Ensino S/C Ltda,Cascavel,PR,NF,0,2000
+29,Igor Hjelmstrom Vinhas Ribeiro,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2000
+30,Adriano Bedeschi de Souza,Instituto de Matemática e Estatística - USP,São Paulo,SP,NF,0,2000
+30,Renato Baba,Instituto de Matemática e Estatística - USP,São Paulo,SP,NF,0,2000
+30,Valdiney Alves Pimenta,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2000
+30,thiago dos santos prado,CEFET-GO - UNED-Jataí,Jataí,GO,NF,0,2000
+1,Eduardo Pereira Habkost,Universidade Federal do Paraná (UFPR),Curitiba,PR,NF,0,2001
+2,Lauro Ramos Venancio,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+3,Raphael Marcos Menderico,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+4,Marcel Kenji de Carli Silva,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+4,Ricardo Fabiano Samila,Universidade Federal do Paraná (UFPR),Curitiba,PR,NF,0,2001
+6,Davi Tassinari de Figueiredo,Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,NF,0,2001
+6,Rafael Dantas de Castro,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+8,Daniel Bueno Donadon,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+9,Israel Rios,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+10,Edson Mikio Nishida,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+10,Igor Hjelmstrom Vinhas Ribeiro,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+12,Volnei dos Santos,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+13,Haroldo Ribeiro Gomes,Colégio Técnico de Coronel Fabriciano Padre de Man,Coronel Fabriciano,MG,NF,0,2001
+13,Pedro Luis Boschi Goncalves,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+15,Júlio César e Melo,Pontifícia Universidade Católica de Minas Gerais - PUC Minas,Belo Horizonte,MG,NF,0,2001
+15,Rodrigo Damazio,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+17,Tiago Rinck Caveden,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+18,Edans Flavius de Oliveira Sandes,Universidade de Brasília,Brasília,DF,NF,0,2001
+18,Herbert de Melo Duarte,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+20,Gustavo Romano,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+20,Leonardo da Silva Romeu,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+20,Luiz Carlos Portela Tordin,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+23,Diogo Satoru Aihara,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+23,Edson Lucas martins Nascimento,UFBA - Universidade federal da Bahia,Salvador,BA,NF,0,2001
+23,Fabiano Mitsuo Sato,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+23,William Eduardo de M Casante,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+27,Luis Guilherme Fernandes Pereira,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+27,Marcell Manfrin Barbacena,CEFET-PB,João Pessoa,PB,NF,0,2001
+29,Bruno Samora,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+29,Carlos H. Cardonha,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+29,Daniel Yushin Yamamoto,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+29,Eduardo A. Carrara,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+29,Felipe Castro da Silva,Fundação Universidade Federal do Rio Grande,Rio Grande,RS,NF,0,2001
+29,LEANDRO GRIPPO,PUCPR,Curitiba,PR,NF,0,2001
+29,Lincoln David Nery e Silva,CEFET-PB,João Pessoa,PB,NF,0,2001
+29,Luis Fernando Aires Branco Menegueti,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+29,Luiz Carlos Genoves Junior,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+38,CLEITON DOS SANTOS GARCIA,Universidade Católica de Pelotas,Pelotas,RS,NF,0,2001
+38,Frank Sussumo Yonamine,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2001
+38,Mauricio Augusto Figueiredo,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+38,Pedro de Vasconcellos Castro,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+38,Tiago Cavalheiro de Melo,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+43,Diogo Colla Pereira,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+43,Givanildo Santana do Nascimento,UNIT - Universidade Tiradentes,Aracaju,SE,NF,0,2001
+43,Glauber Mariano Ferreira,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+43,João Vicente Raffani,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+43,Juliana Lima Medeiros,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+43,Liciano Nicolini,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+43,Lucas dos Santos Ribeiro,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+43,Marco Aurelio Roncatti,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+43,Renata Torres Abib,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+43,Synara Pereira de Brito,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+43,Tiago B. Machado,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+43,Tiago da Conceição Mota,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+55,Daniel Perez,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+55,Fabio Maki Yamashiro,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+55,Marcus Vinícius Mazega Figueredo,PUCPR,Curitiba,PR,NF,0,2001
+55,Sherfis Gibran Ruwer,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+55,Thiago Chaves de Oliveira Horta,Universidade de Brasília,Brasília,DF,NF,0,2001
+55,miguel fernandez gomes dias garz,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2001
+61,Edgard Arakaki,FUFMS - Fundação Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2001
+61,Fernando Reis Pintiaski,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+61,Ivan B. Silva Neto,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+61,Murilo Augusto de Oliveira,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+61,sueane santos bomfim,Universidade Federal de Sergipe,São Cristovão,SE,NF,0,2001
+66,Yugo Watari,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+67,Aron Borges,PUCPR,Curitiba,PR,NF,0,2001
+67,Breno Guimarães de Oliveira,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+67,Lucas Rafagnin,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+67,Rafael Martinelli Pinto,UERJ - Universidade Estadual do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2001
+71,Roberto Policarpo Rodrigues,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+71,fernando marino nascimento,CENTRO UNIVERSITARIO DO LESTE DE MINAS GERAIS - UNILESTEMG,CORONEL FABRICIANO,MG,NF,0,2001
+73,Bruno Couto Kümmel,Universidade de Brasília,Brasília,DF,NF,0,2001
+73,Diego Caminha Barbosa de Oliveira,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+73,Igor Ranyeri Tavares Guimarães,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+73,Leandro dos Santos Cardoso,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2001
+73,Rafael dos Santos Cubas,Universidade Federal do Paraná (UFPR),Curitiba,PR,NF,0,2001
+73,Rodrigo M. Gorgoll,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+79,Bruno de Azevedo Vianna,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+79,Daniel Bernardo Farias Pereira,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+79,Fábio de Moraes Vaz da Silva,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+79,Hiromiti Nakagawa,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2001
+79,José Jorge Lima Dias Júnior,CEFET-PB,João Pessoa,PB,NF,0,2001
+79,Leonardo Vergani,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+79,Marcelo Giazzon dos Santos,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+79,Peterson Drees,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+79,Robson Eduardo de Grande,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2001
+79,Rodrigo Albanaz,PUCPR,Curitiba,PR,NF,0,2001
+79,Vinicius Kolinski,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+79,Yuri Endo kokubun,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+91,Daniel Arruda Santos Anjos,Universidade de Brasília,Brasília,DF,NF,0,2001
+91,Diego Pinheiro Nogueira,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+91,Fábio Massayuki Ivasse,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+91,Gustavo Henrique dos Santos,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+91,Gustavo Rodrigues Ramos,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2001
+91,Jesiel de Souza,Universidade do Vale do Itajaí - UNIVALI,Itajai,SC,NF,0,2001
+91,João Marcelo Trigo Leal,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+91,Roberto Breglio Marchesini,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+91,Rodrigo Ferreira Pinto Junqueira,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+91,Rodrigo Loureto de Rezende,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+101,Bruno Carneiro de Castro,Universitas - Centro Universitário de Itajubá - FEPI,Itajubá,MG,NF,0,2001
+101,CARLOS AUGUSTO STOCO,UnicenP - Centro Universitário Positivo,Curitiba,PR,NF,0,2001
+101,Carlos Eduardo Franco,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2001
+101,Daniel Gonçalves Loureiro,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+101,José Nelson Falavina Júnior,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2001
+101,Marcelo Van Kampen,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+101,Mirian de Souza Monteiro,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+101,Rafael Dias Santos,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+101,Rodrigo Alceu Baliza,INIVERSIDADE DE ALFENAS - UNIFENAS,ALFENAS,MG,NF,0,2001
+101,Shridhar Jayanthi,Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,NF,0,2001
+101,Thiago Henrique Rodrigues,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+101,Thiago Kenji Souto,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+101,Vagner Gomes Soares,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+114,Alexandre da Silva Pereira,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+114,Alexsandro Braz de Almeida,Universidade Metropolitana de Santos (UNIMES),Santos,SP,NF,0,2001
+114,Anderson Dias Costa,Colégio Técnico de Coronel Fabriciano Padre de Man,Coronel Fabriciano,MG,NF,0,2001
+114,Ariel Alves da Fonseca,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+114,Bruna Bárbara Santos,Faculdade de Informática de Passos,passos,MG,NF,0,2001
+114,Bruno Emerson Gurgel Gomes,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+114,Bruno Feu de Carvalho Pinto da Silva,Pontifícia Universidade Católica de Minas Gerais - PUC Minas,Belo Horizonte,MG,NF,0,2001
+114,Charles Novaes de Santana,UFBA - Universidade federal da Bahia,Salvador,BA,NF,0,2001
+114,Claiton Pimentel de Oliveira,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+114,Douglas Fabiano Drumond de Carvalho,Colégio Técnico de Coronel Fabriciano Padre de Man,Coronel Fabriciano,MG,NF,0,2001
+114,Evandro Saroka Botelho,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+114,Felipe Bernardi,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+114,Fábio Benites Tramasoli,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+114,Gabriel de Medeiros Galvão,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+114,Giselia Magalhaes Cruz,UFBA - Universidade federal da Bahia,Salvador,BA,NF,0,2001
+114,José Adson O. G. da Cunha,CEFET-PB,João Pessoa,PB,NF,0,2001
+114,João Evaristo Faria Moreira,INIVERSIDADE DE ALFENAS - UNIFENAS,ALFENAS,MG,NF,0,2001
+114,João Walter Bruno Filho,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+114,Leandro Murcia Britto Pena,UERJ - Universidade Estadual do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2001
+114,Lucas dos Santos Casagrande,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2001
+114,Luiz Toscano Menezes,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+114,Mario Lins E. de Barros,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+114,Márcio Bastos Castro,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+114,Nicole Cristiane Nissola,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+114,Rafael Souza Mendes,Universidade Católica de Pelotas,Pelotas,RS,NF,0,2001
+114,Roberta da Silva,Faculdade de Informática de Passos,passos,MG,NF,0,2001
+114,Rodrigo Machado,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+114,Rodrigo de Oliveira Ferroni,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+114,Rosilene Ipólita Leão,Faculdade de Informática de Passos,passos,MG,NF,0,2001
+114,Santiago de Moura Luz,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+114,Thiago Kunsch Rocha,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+114,Thiago Seara Cabeço,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+114,Vítor Carneiro Curado,Universidade de Brasília,Brasília,DF,NF,0,2001
+114,Willian Jones Capoan,Universidade Regional Integrada do Alto Uruguai das Missões,Erechim,RS,NF,0,2001
+114,Yves Cooper Furusho,Universidade Federal do Paraná (UFPR),Curitiba,PR,NF,0,2001
+149,Bruno Franciscon Mazzotti,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+149,Erick Bastos de Almeida,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2001
+149,Filipe Santana Gonçalves,Colégio Técnico de Coronel Fabriciano Padre de Man,Coronel Fabriciano,MG,NF,0,2001
+149,Marcelo Mustafa Murad,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2001
+149,Marcus O. Hardman,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+149,Rafael Nunes de Martino,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+155,Juliane da Paixão Mazucki,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+155,Mateus Maida Paduelli,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+155,Rafael Machado Guimaraes,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2001
+155,Rodrigo Pedra Brum,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+159,Koji Edson Sasaoka,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+159,Marlon Farias da Luz,Universidade Federal do Rio Grande do Sul,Porto Alegre,RS,NF,0,2001
+159,Pedro Henrique Borges de Almeida,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+159,Rodrigo Mattei Jacoby,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+159,Rodrigo Mendes Costa,Fundação Universidade Federal do Rio Grande,Rio Grande,RS,NF,0,2001
+164,Arthur Nóbrega de Lima,Universidade de Fortaleza,Fortaleza,CE,NF,0,2001
+164,IVAN MEDEIROS MONTEIRO,CENTRO FEDERAL DE EDUCACAO TECNOLOGICA DA BAHIA,Salvador,BA,NF,0,2001
+164,Marco Antonio Rocha,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+167,marcos barbosa dósea,Universidade Federal de Sergipe,São Cristovão,SE,NF,0,2001
+168,Fagner Martins,INIVERSIDADE DE ALFENAS - UNIFENAS,ALFENAS,MG,NF,0,2001
+168,Rafael Rodrigues da Silva,Universidade Metropolitana de Santos (UNIMES),Santos,SP,NF,0,2001
+170,Alex Augusto da Luz dos Santos,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+170,Arthur Gabriel de Santana,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2001
+170,FERNANDO AUGUSTO MARQUETE,Colégio GEO Dunas,Fortaleza,CE,NF,0,2001
+170,Julio Gerchman,Universidade Federal do Rio Grande do Sul,Porto Alegre,RS,NF,0,2001
+170,Otavio Augusto Bizetto Penatti,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+175,Francisco Santana Neto,FUFMS - Fundação Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2001
+175,Joao Carlos Theodoro,Universidade Estadual de Campinas,Campinas,SP,NF,0,2001
+175,Thiago Camara Leite,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2001
+175,Wallace Alves de Andrade Rocha,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+179,Antonio Luciano Mota Itaparica,UFBA - Universidade federal da Bahia,Salvador,BA,NF,0,2001
+179,Daniele Moraes Simas,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+179,Eduardo João Marcondes,Universidade Estadual do Oeste do Paraná - Campus Cascavel,Cascavel,PR,NF,0,2001
+179,Filipe A. Moura,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+179,Gustavo Pezzi,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+179,Ismael Antônio Martins Patuzzi,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+179,John Kliff Jochens,Universidade Federal do Rio Grande do Sul,Porto Alegre,RS,NF,0,2001
+179,Klaus Richard Gonçalves Lana,Colégio Técnico de Coronel Fabriciano Padre de Man,Coronel Fabriciano,MG,NF,0,2001
+179,Marcus Vinicius de C. Secato,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+189,Adriano Tinoco de Oliveira Rezende,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+189,Aislan Mello Coelli,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+189,Alan Fabrício Kochmann,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+189,Alessandra Freitas Godinho,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+189,Alessandra Pozza,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Alexandre d´Almeida S. Lima,Cotemig,Belo Horizonte,MG,NF,0,2001
+189,Ana Maria da Mota Moura,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA,CAMPOS DOS GOYTACAZES,RJ,NF,0,2001
+189,Anaelisa Cecagno,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Anderson Furini,Fundação Universidade de Cruz Alta,Cruz Alta,RS,NF,0,2001
+189,Anderson Onzi,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,André Gustavo Duarte de Almeida,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+189,André Luiz Beltrame Tomasi,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+189,André Ventura da Cunha Vale,Cotemig,Belo Horizonte,MG,NF,0,2001
+189,Angelo Dal Bó,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Antonio Eduardo Dantas Coelho,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Aristides de Almeida Neto,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+189,Augusto Gomes de Freitas Milan,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Beatriz Rosa Chiodeli,Univeridade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2001
+189,Bernardo Augusto Dal Corno,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Bruno Ranieri,ETE POLIVALENTE DE AMERICANA,AMERICANA,SP,NF,0,2001
+189,Carlos Atila Freitas da Costa,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Carlos Eduardo Hoffmann,Fundação Universidade de Cruz Alta,Cruz Alta,RS,NF,0,2001
+189,Carlos Henrique Romano,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+189,Carlos R. dos Santos Júnior,ESCOLA DE ENGENHARIA DE PIRACICABA,Piracicaba,SP,NF,0,2001
+189,Cassiano Venturella,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Cassio Lerin,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Cesar Pereira Mozoni,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Ciro Bastos Zanata,UnicenP - Centro Universitário Positivo,Curitiba,PR,NF,0,2001
+189,Clarissa Cassini Bettoni,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Cleber Castro Hage,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+189,Cleber Francisco Cardoso,Instituto Salesiano Dom Bosco,Americana,SP,NF,0,2001
+189,Daniel Felix de Brito,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+189,Danilo Constâncio Ferreira,ETE POLIVALENTE DE AMERICANA,AMERICANA,SP,NF,0,2001
+189,Danilo Gama Botelho,Centro Federal de Educacao Tecnologica de Goias,Goiania,GO,NF,0,2001
+189,Davidson Rodrigo Boccaro,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2001
+189,Debora da Silva Abitbol,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Denise Schimitz de Carvalho,Colégio Técnico Universitário,Juiz de Fora,MG,NF,0,2001
+189,Dhiego Félix Fidalgo Rendeiro,Universidade Metropolitana de Santos (UNIMES),Santos,SP,NF,0,2001
+189,Diego Oliveira Araújo,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+189,DÉLIO MIYOSHI ONUKI,UnicenP - Centro Universitário Positivo,Curitiba,PR,NF,0,2001
+189,EURIPEDES FERNANDES DA SILVA NETO,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO PIAUÍ- CEFET-PI,TERESINA,PI,NF,0,2001
+189,Edmar Alves da Silva,ESCOLA DE ENGENHARIA DE PIRACICABA,Piracicaba,SP,NF,0,2001
+189,Ednelson Keiji Shinckawa,Universidade Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Edson Lek Hong Ma,Universidade de Brasília,Brasília,DF,NF,0,2001
+189,Eduard Keller Buhali,UnicenP - Centro Universitário Positivo,Curitiba,PR,NF,0,2001
+189,Eduardo Carui,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+189,Eduardo Oliveira de Souza,FUFMS - Fundação Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2001
+189,Eduardo Sartor,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Emanuela Pegoraro,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Eryckson Magno de Assis Santos,Colégio Técnico de Coronel Fabriciano Padre de Man,Coronel Fabriciano,MG,NF,0,2001
+189,FERNANDO ABRAHÃO AFONSO,Universidade Católica de Pelotas,Pelotas,RS,NF,0,2001
+189,FRANCISCO JOSE SALES MUNIZ,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO PIAUÍ- CEFET-PI,TERESINA,PI,NF,0,2001
+189,FRANCISCO SAVIO COSTA OLIVEIRA,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO PIAUÍ- CEFET-PI,TERESINA,PI,NF,0,2001
+189,Fabio Augusto de Vasconcelos,Universidade Cidade de São Paulo - UNICID,São Paulo,SP,NF,0,2001
+189,Fabio Estacio dos Santos,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Fabio Mezzomo,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Felipe Chiaradia,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Felipe Rosa Serpeloni,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Fernando Luis Romeiro,Colegio Luterano Concordia - Canoas,Canoas,RS,NF,0,2001
+189,Fernando Porteiro Jesus,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+189,Francine Palma Barbosa,Universidade Estácio de Sá - Campus Friburgo,Nova Friburgo,RJ,NF,0,2001
+189,Francisco Soares de Giacomo Neto,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+189,Fábio José de Mattos,ETE POLIVALENTE DE AMERICANA,AMERICANA,SP,NF,0,2001
+189,Gabriel Urtiaga,Universidade Católica de Pelotas,Pelotas,RS,NF,0,2001
+189,Giovani Comin,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Gisele Moraes Simas,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+189,Greicy Enne Eduardo Ribeiro,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Guilherme Augusto Rodrigues Tambeiro,Universidade Metropolitana de Santos (UNIMES),Santos,SP,NF,0,2001
+189,Guilherme Bampi,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Guilherme Costa Silva,Pontifícia Universidade Católica de Minas Gerais - PUC Minas,Belo Horizonte,MG,NF,0,2001
+189,Guilherme Gregianin Testa,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Guilherme Prehn Falcao,Universidade Federal do Rio Grande do Sul,Porto Alegre,RS,NF,0,2001
+189,Guilherme Reis de Paula,Cotemig,Belo Horizonte,MG,NF,0,2001
+189,Guilherme Ribeiro Baganha,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Guilherme de Almeida Cordeiro,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+189,Gustavo Zat,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Humberto Saraiva Nazareno dos Anjos,Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,NF,0,2001
+189,IGO XIMENES RODRIGUES,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO PIAUÍ- CEFET-PI,TERESINA,PI,NF,0,2001
+189,Igor Martinho Fregonese Barros,FUFMS - Fundação Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2001
+189,Ilton Vieira Junior,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Ivo Augusto Neves do Nascimento,ESCOLA DE ENGENHARIA DE PIRACICABA,Piracicaba,SP,NF,0,2001
+189,JULIO MONTEIRO NETO,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO PIAUÍ- CEFET-PI,TERESINA,PI,NF,0,2001
+189,Jeferson Moreira dos Anjos,Pontifícia Universidade Católica de Minas Gerais - PUC Minas,Belo Horizonte,MG,NF,0,2001
+189,Jefferson Velasco de Amorim,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Joel Pinho Lucas,Fundação Universidade Federal do Rio Grande,Rio Grande,RS,NF,0,2001
+189,Joniel Pasqualetto,Fundação Universidade de Cruz Alta,Cruz Alta,RS,NF,0,2001
+189,Josy Anne Nogueira Souza,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,José Henrique Ferreira Melman,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+189,João Paulo S. Bertoncini,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Juliana Moralez Leme,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+189,Juliano Hiramatsu Ito,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+189,Leandro Klein,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Leandro Manóchio Vieira,UnicenP - Centro Universitário Positivo,Curitiba,PR,NF,0,2001
+189,Leandro Orofino Enck,Universidade de Fortaleza,Fortaleza,CE,NF,0,2001
+189,Leandro Rosa de Mattos,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+189,Leandro Ruwer,Fundação Universidade de Cruz Alta,Cruz Alta,RS,NF,0,2001
+189,Leda Maria Meire do Carmo,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Leonardo Castagna Ceconello,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Leonardo de Souza Santana,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Leonel Carlos Pereira,INIVERSIDADE DE ALFENAS - UNIFENAS,ALFENAS,MG,NF,0,2001
+189,Leonidas Pereira da Silva Neto,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+189,Lorenzo Taddei,Fundação Universidade Federal do Rio Grande,Rio Grande,RS,NF,0,2001
+189,Lourenço Bortolini,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Luanna Lopes Lobato,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+189,Lucas Fahham,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+189,Luciana Candida Souza Machado,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+189,Luciana V. B. Wiecheteck,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+189,Luiz José Hoffmann Filho,Universidade Estadual do Oeste do Paraná - Campus Cascavel,Cascavel,PR,NF,0,2001
+189,Marcelo Grandi Mandelli,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Marcos Yuzuru de O. Camara,UFBA - Universidade federal da Bahia,Salvador,BA,NF,0,2001
+189,Mario Henrique F. Soares,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Mark Spekker,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Mateus Lazzari,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Mateus de Oliveira Oliveira,UFBA - Universidade federal da Bahia,Salvador,BA,NF,0,2001
+189,Matheus Safraid,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+189,Mauricio Peixto dos Santos,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Melina Alice Dias de Oliveira,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+189,Michael Diório Bernardo,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Michael Douglas Enders,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+189,Nereu Luiz spacki,Faculdade Mater Dei,Pato Branco,PR,NF,0,2001
+189,Osvaldo Mafra Lopes Jr,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+189,Priscila da Cunha Fischer,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Rafael Albuquerque Câmara,Universidade de Fortaleza,Fortaleza,CE,NF,0,2001
+189,Rafael Augusto Mendes Moreira,Centro Federal de Educacao Tecnologica de Goias,Goiania,GO,NF,0,2001
+189,Rafael Cecagno,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Rafael Domingos da Silva,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Rafael Morais Alves,UERJ - Universidade Estadual do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2001
+189,Rafael Orssatto,Universidade Estadual do Oeste do Paraná - Campus Cascavel,Cascavel,PR,NF,0,2001
+189,Rafael Pressi,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Rafael Soares Rodrigues,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2001
+189,Rafael Sussel Decleva,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Ramon Gomes Costa,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2001
+189,Raphael Belo da Silva Meloni,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+189,Raphael Carlos Santos Machado,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Rio de Janeiro,RJ,NF,0,2001
+189,Raul Galvão Campos Jr.,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA,CAMPOS DOS GOYTACAZES,RJ,NF,0,2001
+189,Renan Schiavo,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Ricardo Rosseto de Carvalho,Universidade de São Paulo - ICMC,São Carlos,SP,NF,0,2001
+189,Ricarte Maia Macêdo,Universidade de Fortaleza,Fortaleza,CE,NF,0,2001
+189,Roberto Bartzen Acosta,Colegio Luterano Concordia - Canoas,Canoas,RS,NF,0,2001
+189,Robinson Presotto,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Robson Rafael Rosa,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2001
+189,Rodrigo Ferreira de Carvalho,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Rodrigo Furlan,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Rodrigo R. Ferro,Instituto De Matemática e Estatística da USP,São Paulo,SP,NF,0,2001
+189,Rodrigo de Abreu Batista,Colegio Luterano Concordia - Canoas,Canoas,RS,NF,0,2001
+189,Rogério Hideki Maki,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Rogério Savio da Silva,Escola Técnica Federal de Mato Grosso,Cuiabá,MT,NF,0,2001
+189,Ronaldo Gracioso Oliveira,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2001
+189,Rudnei Damaceno dos Santos,Colegio Luterano Concordia - Canoas,Canoas,RS,NF,0,2001
+189,Sandro Jerônimo de Almeida,Pontifícia Universidade Católica de Minas Gerais - PUC Minas,Belo Horizonte,MG,NF,0,2001
+189,Sara Poletto Santos Ferreira,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Shenia Costa Gonçalves,Faculdade de Informática de Passos,passos,MG,NF,0,2001
+189,Susanna Silva Miranda,Centro Federal de Educacao Tecnologica de Goias,Goiania,GO,NF,0,2001
+189,Sílvio Roberto Fernandes de Araújo,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+189,Thiago Rudzewicz,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Thiago Sodré Cola,Fundação de Assitência e Educação - FAESA,Vitória,ES,NF,0,2001
+189,Thiago de Moraes Pereira,Faculdade de Informática de Passos,passos,MG,NF,0,2001
+189,Thiago van Leeuwen,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2001
+189,Tiago Araujo Gobbi,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+189,Tiago Franco de Almeida,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2001
+189,Tiago Leoratto,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Tiago Macedo Mello,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2001
+189,Tiago Rodrigues de Mello,FUFMS - Fundação Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2001
+189,Tiago de Souza Lonardoni,UNIMEP - Universidade Metodista de Piracicaba,Piracicaba,SP,NF,0,2001
+189,Ubiratan de Carvalho,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Valério Ramalho Nobre,Universidade Federal do Rio Grande do Norte,"Natal, RN",RN,NF,0,2001
+189,Vinicius da Silva Faria,Universidade Federal Fluminense,Niterói,RJ,NF,0,2001
+189,Vinícius Antoniazzi Brandelli,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,Vitor Hugo Fromoso de Souza,CETEC - UCS,Caxias do Sul,RS,NF,0,2001
+189,WELLINGTON PACHECO SILVA,CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO PIAUÍ- CEFET-PI,TERESINA,PI,NF,0,2001
+189,Wagner Luiz Chaves,Univeridade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2001
+189,Éverton Fernando Rosário,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2001
+1,Humberto Silva Naves,Instituto Tecnológico de Aeronáutica - ITA,São José dos Campos-SP,SP,NF,0,2002
+2,Bruno T.C. de Oliveira,IME-USP,São Paulo,SP,NF,0,2002
+3,Rafael Teixeira Paulino,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+4,Juliano Ravasi Ferraz,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+4,Lucas Furukawa Gadani,IME-USP,São Paulo,SP,NF,0,2002
+6,Roberto Pereira Cavalcante,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+6,Tarso Assis Vitorino,Universidade Regional de Blumenau,Blumenau,SC,NF,0,2002
+8,Carlos Stein Naves de Brito,Instituto Tecnológico de Aeronáutica - ITA,São José dos Campos-SP,SP,NF,0,2002
+8,Lincoln David Nery e Silva,Centro Federal de Educação Tecnológica da Paraíba,João Pessoa,PB,NF,0,2002
+10,Fabio Alexandre Campos Tisovec,IME-USP,São Paulo,SP,NF,0,2002
+11,Fábio Oliveira Silva,ICMC - USP,Sao Carlos,SP,NF,0,2002
+12,André Luís Macedo,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+13,Cesário B. de Barros Martins,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+13,Douglas Fabiano Drumond de Carvalho,Colégio Universitário Padre de Man,Coronel Fabriciano,MG,NF,0,2002
+13,Fernado Henrique Bezerra Cardoso,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+13,Rogério Fernandes Tott,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2002
+13,Tarcísio Genaro Rodrigues,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+18,Daniel Machado de Faria,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+18,Ivan Medeiros Monteiro,Universidade Federal da Bahia,Salvador,BA,NF,0,2002
+20,Daniel Bueno Donadon,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+20,Ernani Hun Fat So,IME-USP,São Paulo,SP,NF,0,2002
+20,Haroldo Ribeiro Gomes,Colégio Universitário Padre de Man,Coronel Fabriciano,MG,NF,0,2002
+23,Carlos Henrique Machado Silva Esteves,Instituto Tecnológico de Aeronáutica - ITA,São José dos Campos-SP,SP,NF,0,2002
+23,Eduardo Rodrigues Cerejo,ICMC - USP,Sao Carlos,SP,NF,0,2002
+23,Erich Mönch,IME-USP,São Paulo,SP,NF,0,2002
+23,Gisele Simas,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+23,Paulo Cezar Hecht Junior,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+23,Thiago Barros Rodrigues Costa,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+29,Daniel Saraiva de Lacerda Costa,PONTIFICIA UNIVERSIDADE CATOLICA DE MINAS GERAIS,BELO HORIZONTE,MG,NF,0,2002
+29,Fausto Kenzo Chinen,IME-USP,São Paulo,SP,NF,0,2002
+31,Fabricio Hofmann da Silva,Faculdade Cenecista de Joinville,Joinville,SC,NF,0,2002
+31,Marcelo Busana,UNIDAVI - Univ. para o Densenv. do Alto Vale do Itajaí,Rio do Sul,SC,NF,0,2002
+33,Andre Jordan Botaro de Lima,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+33,Ribamar Santarosa de Sousa,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+35,Leonardo Henrique Muniz Arantes,CEFET,Belo Horizonte,MG,NF,0,2002
+36,Diogo Mildenberger,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2002
+36,Mateus Massaro Del Bianco,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+36,Tiago Etiene Queiroz,ICMC - USP,Sao Carlos,SP,NF,0,2002
+39,Bruno Mariano,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+39,David Couto de Almeida,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+39,Einstein do Nascimento Júnior,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+42,Carlos Alberto dos Rios Junior,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+42,Filipe Santana Gonçalves,Colégio Universitário Padre de Man,Coronel Fabriciano,MG,NF,0,2002
+42,José Gilmar Alves Santos Júnior,CENTRO FEDERAL DE EDUCACAO TECNOLOGICA DA BAHIA,Salvador,BA,NF,0,2002
+42,Rafael Antognolli,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+42,Wagner Soares,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+47,Carla Elisabeth Hirano Henriques,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+47,Eduardo Martins Neves,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+47,Otávio Augusto Ferronatto Forster,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+47,Rafael Domingues,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+47,Rafael Esteves Mansano,Universidade Federal Fluminense,Niterói,RJ,NF,0,2002
+47,Rafael Toshiyuki Watanabe,IME-USP,São Paulo,SP,NF,0,2002
+53,Antonio Carlos dos Santos,IME-USP,São Paulo,SP,NF,0,2002
+53,Daniel Madruga de Aquino,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+53,Danilo Barbosa Rodrigues,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+53,Gerson Saverio Oddone Júnior,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+53,Jose Jorge Lima Dias Junior,Centro Federal de Educação Tecnológica da Paraíba,João Pessoa,PB,NF,0,2002
+53,Marco Antonio Rocha,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+53,Murilo Gimenes Rodrigues,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+53,Rafael Diniz,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+61,André Luiz Martins Pignata,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+61,Björn Martins Paz,PUCPR,Curitiba,PR,NF,0,2002
+61,Frederico Severo Miranda,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+61,Fábio José da Silva,Faculdade Politecnica de Jundiaí,Jundiaí,SP,NF,0,2002
+61,Hugo Trally Ferreira,Universidade Federal Fluminense,Niterói,RJ,NF,0,2002
+61,Leonardo Ostem Bitencourt,Instituto Tecnológico de Aeronáutica - ITA,São José dos Campos-SP,SP,NF,0,2002
+61,Liciano Nicolini,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+61,Patrick Augusto Gonçalves,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+61,Rafael de Holanda Barroso,IME-USP,São Paulo,SP,NF,0,2002
+61,Rodrigo Krüger,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2002
+61,Tatiana Escovedo,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+61,Valdecir Polizelli Junior,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2002
+73,Daniel Yushin Yamamoto,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+73,Felipe Chiaradia,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+73,Leonardo Barreto Pereira,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+76,Arthur Gabriel de Santana,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+76,Luciano Marinho Zanuthe,Universidade Federal Fluminense,Niterói,RJ,NF,0,2002
+76,Raphael do Vale Amaral Gomes,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+79,Adriano Akissue Carezzato,IME-USP,São Paulo,SP,NF,0,2002
+79,Cristiano Marcos Agulhari,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+79,Denilson Figueiredo de Sá,Universidade Gama Filho,Rio de Janeiro,RJ,NF,0,2002
+79,Denis Henrique Pinheiro Salvadeo,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+79,Paulo Henrique Rigolin de Moraes,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+84,Braulio Bezerra da Silva,CEFET/RN,Natal,RN,NF,0,2002
+84,Isis Santos Costa,IME-USP,São Paulo,SP,NF,0,2002
+86,Carlos Henrique Cerqueira Santos,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+86,Guilherme Beyer Thó,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+86,Patrick Anderson Moreira Marcelino,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+86,Richard Pontes,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+90,André Bandeira,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+90,Artur Duque de Souza,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+90,Bruno Aguiar de Melo,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+90,Ewerton Fragoso dos Santos Lopes,CEFET/RN,Natal,RN,NF,0,2002
+90,Rafael Pereira Santiago,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+90,Vinícius Geraldo Felix,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+96,André Cerqueira,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+96,Bruno Negreiros Lima Carrancho,Universidade Gama Filho,Rio de Janeiro,RJ,NF,0,2002
+96,Edson Mikio Nishida,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+96,Fábio Bulgarelli,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+96,Leonardo Muzzi Machado,CEFET,Belo Horizonte,MG,NF,0,2002
+96,Renato Gonçalves de Freitas,IME-USP,São Paulo,SP,NF,0,2002
+96,Ronaldo Francisco Maia,ICMC - USP,Sao Carlos,SP,NF,0,2002
+96,Sergio Henrique Santana,IME-USP,São Paulo,SP,NF,0,2002
+96,Tharcisio Huilber dos Santos Angelo,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+96,Tiago Edga Rasia,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+106,Ana Maria da Mota Moura,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+106,André Pimenta Freire,ICMC - USP,Sao Carlos,SP,NF,0,2002
+106,Breno Maia de Carvalho,CEFET,Belo Horizonte,MG,NF,0,2002
+106,Diogo Andrade,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+106,Diogo Fernandes Oliveira da Silva,Universidade Federal da Bahia,Salvador,BA,NF,0,2002
+106,Eduardo Antonio Carrara,IME-USP,São Paulo,SP,NF,0,2002
+106,Francisco Zanetti,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+106,Fábio Fernando Raimundo Rocha,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+106,Luciana Maria Gregolin Dias,IME-USP,São Paulo,SP,NF,0,2002
+106,Marco Antonio M. Carvalho,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+106,Marcus Vinicius L. Giraldi,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+106,Márcio Fernando Mendonça,Instituto de Computação - UNICAMP,Campinas,SP,NF,0,2002
+106,Paulo Roberto Cunha,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+106,Pedro Mendonça Pinto Rocha,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+106,Rafael Ibraim G. Marques,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+106,Rafael Xavier de Souza,ICMC - USP,Sao Carlos,SP,NF,0,2002
+106,Roberto Augusto do Rego Alves,Faculdade SENAC de Ciências Exatas e Tecnologia,São Paulo,SP,NF,0,2002
+106,Robson Wiggers,Universidade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2002
+106,Silvia Letticia Ramalho Lima,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+106,Thiago Nunes,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+106,Thiago Zanatta Coutinho de Souza,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+106,Vitor Medina Cruz,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+128,Flávia Vendramini de Figueiredo Silva,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+128,Fábio Massayuki Ivasse,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+128,Fábio Tramasoli,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+128,Joaquim Lopes Júnior,CEFET,Belo Horizonte,MG,NF,0,2002
+128,José Henrique Machado de Almeida,PUCPR,Curitiba,PR,NF,0,2002
+128,Marcelo Henrique Manzo,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+128,Paulo Lilles Jorge Drews Jr.,Universidade Católica de Pelotas,Pelotas,RS,NF,0,2002
+128,Velser Darllan Benício Correia,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+128,Yuri Kokubum,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+137,Ary Fagundes Bressane Neto,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+137,Douglas Matté Lise,URI - Campus de Erechim,Erechim,RS,NF,0,2002
+137,Elder Soares,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+137,Halisson Rodrigo Martins Durães,Fac. de Informática de Passos,Passos,MG,NF,0,2002
+137,Heron Sobrinho Silveira,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+137,Juliano Hiramatsu Ito,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+137,Kleber Padovani de Souza,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2002
+137,Leonardo Almeida Moraes,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+137,Lucas M. de Marchi,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+137,Márcio Renato Biondo Mugnol,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+137,NATÃ DE ARAÚJO FELIPE,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+137,Pérsio Heikiti Kunitake,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+137,Rafael Vieira Braga,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+137,Tadeu Ferreira Oliveira,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+137,Thiago José de Paula,UNIVAP,São José dos Campos,SP,NF,0,2002
+137,Vitor do Santos Ribeiro,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+153,Claiton Pimentel de Oliveira,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+153,Daniel Felix de Brito,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+153,Marcelo Fornazin,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+153,Marcelo Keese Albertini,ICMC - USP,Sao Carlos,SP,NF,0,2002
+157,Eduardo Bortolato,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2002
+157,Hugo Ramos Soares,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+157,Jacson Tiola da Silva,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+157,Rodrigo Alfonso Menezes Madera,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+157,Sergio Augusto Planelis Junior,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+162,Alinson Santos Xavier,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+162,CLEITON ALMEIDA DUARTE,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+162,Fernando Lourenço Franciscão,ICMC - USP,Sao Carlos,SP,NF,0,2002
+162,Henrique Galperin,PUCPR,Curitiba,PR,NF,0,2002
+162,Lucas Pasinato Rafagnin,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+162,Mariane Medeiros,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+168,Bruno Sichieri Gomes,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+168,Bruno Soares Rabelo,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+168,Daniele Simas,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+168,Eduardo Filipe Costa Elarrat,CESUPA - Centro de Ensino Superior do Pará,Belém,PA,NF,0,2002
+168,Fabio Eduardo Angeli,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+168,Flavio Casas de Arcega,Faculdade Cenecista de Joinville,Joinville,SC,NF,0,2002
+168,Gustavo Nogueira Piltcher,Universidade Católica de Pelotas,Pelotas,RS,NF,0,2002
+168,Helen Vieira,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+168,Jackson de Souza Ramos,Universidade Metropolitana de Santos (UNIMES),Santos,SP,NF,0,2002
+168,Jonathan de Matos,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,NF,0,2002
+168,LINEKER MARTINS DE SOUZA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+168,Vinicius Franco da Silva,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+168,Viviane Martos da Silva,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+181,Fernanda Prudente Santana,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+181,Gilson Pereira dos Santos Junior,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+181,Renato de Oliveira Diogo,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+181,Thiago Henrique Cupertino,PUC Minas campus de Poços de Caldas,Poços de Caldas,MG,NF,0,2002
+185,Flávio Albuquerque Pompílio,UNIFIEO - Centro Universitário FIEO,Osasco,SP,NF,0,2002
+185,Leandro Carrascosa Doi,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+185,Leone Mendonça de Sena,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+185,Luiz Carlos de Azevedo Faria,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+185,Marcos Alessandro Ribeiro Alves,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+185,Otávio Augusto Rodrigues Fernandes,CEFET,Belo Horizonte,MG,NF,0,2002
+185,Patrícia Megumi Matsumoto,IME-USP,São Paulo,SP,NF,0,2002
+185,Rafael Oliveira Juqueira,ICMC - USP,Sao Carlos,SP,NF,0,2002
+185,Rodrigo Bertin Machado,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+185,Roger Felipe Zanoni da Silva,Universidade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2002
+195,Alisson José Maia Melo,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+195,Ana Paula Medeiros Padilha,Faculdades Integradas FACVEST,LAGES,SC,NF,0,2002
+195,Andrew Diniz da Costa,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+195,André Molina,IME-USP,São Paulo,SP,NF,0,2002
+195,Anselmo Carmona,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+195,Antonio Carlos Mocelim Junior,Faculdades Rio-Grandenses - FARGS,Porto alegre,RS,NF,0,2002
+195,Breno Mansur Rabelo,Cotemig,Belo Horizonte,MG,NF,0,2002
+195,Carlos Henrique Vieira Filho,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+195,Daniel Lelis Baggio,IME-USP,São Paulo,SP,NF,0,2002
+195,Eduardo Gomes Lopes Trancoso Neves,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+195,Enrique Mansueto V.V. Martinez,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+195,Francisco Daniel da Silva Pereira,UNIVAP,São José dos Campos,SP,NF,0,2002
+195,Fábio Mezzomo,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+195,George Anderson Lima Costa,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+195,Guilherme Nogueira Soares Hodge,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+195,Higor Táriki Mizugai,CEFET,Belo Horizonte,MG,NF,0,2002
+195,Jonildo Francelino Morais,Universidade Federal Fluminense,Niterói,RJ,NF,0,2002
+195,Leandro Moura Távora de França,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+195,Leandro Rangel Santos,Universidade Federal da Bahia,Salvador,BA,NF,0,2002
+195,Leonardo Gazini Facchini,Centro Universitário Barão de Mauá,Ribeirão Preto,SP,NF,0,2002
+195,Marcel Yugo Nakazaki,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+195,Mauricio R. P. Piccolo,Faculdade Politecnica de Jundiaí,Jundiaí,SP,NF,0,2002
+195,Pedro Carvalho Bahia Campos,Faculdades Jorge Amado,Salvador,BA,NF,0,2002
+195,Pedro Henrique Carvalho Faria,PONTIFICIA UNIVERSIDADE CATOLICA DE MINAS GERAIS,BELO HORIZONTE,MG,NF,0,2002
+195,Rafael Almeida Garcia,PUC Minas campus de Poços de Caldas,Poços de Caldas,MG,NF,0,2002
+195,Rafael Alves Bezerra de Oliveira,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+195,Rafael Matos da Silva,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+195,Ricardo Marcelo Bagatini,Faculdade Mater Dei,Pato Branco,PR,NF,0,2002
+195,Rodrigo de Paula,Universidade Metodista de Piracicaba (UNIMEP),Piracicaba,SP,NF,0,2002
+195,Thomaz Daibert Machado,Instituto Tecnológico de Aeronáutica - ITA,São José dos Campos-SP,SP,NF,0,2002
+195,Thomáz Reis,INEI,BRASÍLIA,DF,NF,0,2002
+195,Tiago Rogério Carapelli,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+195,Élio Marcelino Augusto Puperi Alves da Silveira,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,ALEX LIBÓRIO CARANHA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,ANA CAROLINA CABRINHA GAMA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,ANDRÉ ELIAS ALMEIDA SOARES,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Achilles de Bylon Fróes Bisneto,Faculdades Jorge Amado,Salvador,BA,NF,0,2002
+228,Adriano Santana de Melo,UNIFIEO - Centro Universitário FIEO,Osasco,SP,NF,0,2002
+228,Alessandro Cesar Santana,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Alessandro Lenzi,PUCPR,Curitiba,PR,NF,0,2002
+228,Alex dos Santos Alves,Universidade Federal da Bahia,Salvador,BA,NF,0,2002
+228,Alexandra Pinto Giorgi,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+228,Alexandre Gonçalves,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+228,Alexandre Maeoka,PUCPR,Curitiba,PR,NF,0,2002
+228,Aline Márcia A. da Silva,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Aloisio Xavier Neto,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,Alvaro Francisco Ferreira Jr.,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,Ana Carolina Nogueira,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Ana Maria Gilson de Almeida,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,Ana Paula Leite da Silva,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Andrei Moraes da Silva,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,Andrius Dal Pizzol da Silva,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,André Fernando Ferreira,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,André Luis Diogo Junior,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,André Luís dos Santos da Silva,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,André Monteiro dos Santos,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+228,André Ramos,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,André Rodrigues da Cruz,Colégio Universitário Padre de Man,Coronel Fabriciano,MG,NF,0,2002
+228,Angela Tahira,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Angelo Augusto Sartorelli,Faculdades Integradas FACVEST,LAGES,SC,NF,0,2002
+228,Angelo Luis Vallini,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Anthuan Baraquetti,PUCPR,Curitiba,PR,NF,0,2002
+228,Antonio Pires de Sá Prates,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+228,Aroldo Luvisotto Neto,Escola de Engenharia de Piracicaba,Piracicaba,SP,NF,0,2002
+228,Bernardo Augusto Dal Corno,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Braian Thomaz Takahira,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+228,Bruno Americo Camoleze,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Bruno Barcelos do Nascimento,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,Bruno Bouzas Senra Lima,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+228,Bruno FernandesBartholomeu,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Bruno Graciano Rocha Gomes,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Bruno Trevisan de Oliveira,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Bruno de Almeida Barbosa,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,CAIO FARIAS GÓES,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,CELSO GUIDO ROLIM COSTA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Carlos Eduardo Camolesi,Universidade Metodista de Piracicaba (UNIMEP),Piracicaba,SP,NF,0,2002
+228,Carlos Eduardo Martins,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Carlos Eduardo de Mello,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+228,Carlos Henrique de Lima,Faculdade Politecnica de Jundiaí,Jundiaí,SP,NF,0,2002
+228,Clicia Paiva Fernandes de Souza,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,Conrado Balbinot de Souza Santos,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Cristiano Burato Luminati,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Cássio Pinheiro Almeron,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Célio Saciloto,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,DEMETRIUS DA COSTA ALBUQUERQUE,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,DOUGLAS LOPES PEREIRA,UNISAL - Centro Universitário Salesiano de São Paulo,Americana,SP,NF,0,2002
+228,Daiane da Silva Correia,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,Daniel Brizuena Arsie,CESUPA - Centro de Ensino Superior do Pará,Belém,PA,NF,0,2002
+228,Danillo Mulati Bittencourt,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Danilo Almeida,PONTIFICIA UNIVERSIDADE CATOLICA DE MINAS GERAIS,BELO HORIZONTE,MG,NF,0,2002
+228,Danilo Arantes Teófilo,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Danilo Mikio Cunha,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Dante Henrique Strutzel Saggin,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Darlan Klein,PUCPR,Curitiba,PR,NF,0,2002
+228,Davi Duchovni Silva,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Denizete Boff,Colégio São José - AEFRAN PCC,São Leopoldo,RS,NF,0,2002
+228,Diego Tumelero,URI - Campus de Erechim,Erechim,RS,NF,0,2002
+228,Diego Viganó,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Diogo Almeida Bungenstalo,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Diogo Barbosa dos Santos,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Diogo Rocha Bezerra,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+228,Douglas Nobre Volpini,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,Dreone Mendes,Faculdades Integradas FACVEST,LAGES,SC,NF,0,2002
+228,DÔNN-THELL FREWYD SAWNTZY JUNIOR,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Dênis Santos,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,EWERTON THIAGO LEÃO C. CORRÊA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Eder Nogueira Bezerra,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Edgar da Rocha Sonsin,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Eduardo A. da Silva,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Eduardo Gonçalves Ribeiro,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2002
+228,Eduardo Guarda Bertolini,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Eduardo Nicácio,Faculdade Politecnica de Jundiaí,Jundiaí,SP,NF,0,2002
+228,Eduardo Roque,Colégio São José - AEFRAN PCC,São Leopoldo,RS,NF,0,2002
+228,Emanuel Carlos de Alcantara Valente,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Eric Bernardes Chagas Barros,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+228,Erika de Oliveira Barroso,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+228,Evandro Ricardo Silvestre,Escola de Engenharia de Piracicaba,Piracicaba,SP,NF,0,2002
+228,Evelin Lopes Quinto,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Everton Ferreira de Godoi,Centro Universitário Filadelfia - UniFil,Londrina,PR,NF,0,2002
+228,FABIO LIMA DE SOUZA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,FERNANDO HENRIQUE TEIXEIRA,UNISAL - Centro Universitário Salesiano de São Paulo,Americana,SP,NF,0,2002
+228,Fabio do Nascimento Barbosa,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+228,Fabricio Cozer Martins,Universidade Federal da Bahia,Salvador,BA,NF,0,2002
+228,Fabricio Feitosa Carvalho,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+228,Felipe Menezes Cardoso,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+228,Felipe de Camargo Costa,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,Felix Silva de Oliveira Jr.,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Fernanda Jacob,Faculdade Cenecista de Joinville,Joinville,SC,NF,0,2002
+228,Fernanda Maria de Oliveira Nicácio,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+228,Fernando Clivelaro Dessunti,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,Fernando da Silva Garcia,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,Flávio Gomes de A. Pêgo,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Flávio Rogério Alvarez Leite,Cotemig,Belo Horizonte,MG,NF,0,2002
+228,Frederico do carmo De Moro,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Fábio Delboni,Faculdade Politecnica de Jundiaí,Jundiaí,SP,NF,0,2002
+228,Fábio Erik Borges Gonçalves,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Fábio Justo Hildebrand,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Fábio Luiz Alves Sobral,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+228,Gabriel Sá do Carmo,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,Gabriel de Andrade Levy,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+228,Gabriel dos Santos Tambur,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+228,George Alves Silva,UNIVAP,São José dos Campos,SP,NF,0,2002
+228,Geovani de Mello Miccoli,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,Geovano Neto Barbosa,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,Gildásio Lecchi Cravo,Faculdade de Ciências Humanas de Aracruz,Aracruz,ES,NF,0,2002
+228,Gladstony de Freitas,Faculdades Integradas FACVEST,LAGES,SC,NF,0,2002
+228,Glauco Marcelo dos Santos Moro,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Gleison Paulo Caldeira Oliveira,Instituto Luterano de Ensino Superior de Ji-Paraná,Ji-Paraná,RO,NF,0,2002
+228,Greice Cristina Claro,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+228,Guilherme Barreto Carvalho,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+228,Guilherme Lamm,UNIVAP,São José dos Campos,SP,NF,0,2002
+228,Guilherme Souza,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+228,Guilherme da Silveira Bueno,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,Gustavo Henrique Teixeira da Silva,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,Gustavo Rodrigo Lima,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2002
+228,Gustavo Zat,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Guylerme Velasco de Souza Figueiredo,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+228,HARRY ALVES ROCHA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Hegon Laurimar Dexheimer,Faculdades Integradas FACVEST,LAGES,SC,NF,0,2002
+228,Hercules da Costa Sandim,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+228,Higor Fortunato de Góes Oliveira,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Hugo Cesar Carneiro,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+228,Icaro Clever da Fonseca Braga,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Indalécio Alexandre Linares dos Santos,Centro Universitário Filadelfia - UniFil,Londrina,PR,NF,0,2002
+228,JAMES OLIVEIRA DOS SANTOS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,JORZIEL ANDRADE DOS SANTOS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,JOSÉ DIEGO MENEZES QUINTILIANO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,JOSÉ MARIA D. DE V. DIAS FILHO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,JOÃO CÂNDIDO O. RODRIGUES JUNIOR,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Jailson Aldérico Brito Júnior,Universidade Federal da Bahia,Salvador,BA,NF,0,2002
+228,Jamillo Galdino da Silva Santos,CEFET/RN,Natal,RN,NF,0,2002
+228,Jennifer Hummel,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Joao Batista Florindo,ICMC - USP,Sao Carlos,SP,NF,0,2002
+228,Joao Mateus Pires das Graças,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+228,Joaquim Carneiro de Azevedo Neto,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+228,Joefferson Florêncio Teixeira,CEFET/RN,Natal,RN,NF,0,2002
+228,Jorge Augusto Cardoso Borges,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,Jorge Jeferson Ferreira Montalvão,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Jorge Mário Galdino Ribeiro,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,José Augusto de Oliveira Júnior,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+228,José Danilo da Silva Nogueira,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+228,José Maria Silveira Neto,"Centro Federal de Educacao Tecnologica do Ceara , CEFET-CE",Fortaleza,CE,NF,0,2002
+228,João Eduardo Rocha,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+228,João Norberto de Souza Junior,PUCPR,Curitiba,PR,NF,0,2002
+228,João Tiago Trevelin,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+228,Juliano Nunes Silva Oliveira,Colégio Universitário Padre de Man,Coronel Fabriciano,MG,NF,0,2002
+228,KALLEY CORREA DE OLIVEIRA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,KATHLEN PEREIRA BRUN,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,KELLY DA CONCEIÇÃO AQUINO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,LEANDRO MILANI DE FREITAS SILVA,UNISAL - Centro Universitário Salesiano de São Paulo,Americana,SP,NF,0,2002
+228,LEONARDO NASCIMENTO DOS SANTOS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,LOIDE MARA VERDES DE JESUS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,LUCAS MARQUES DE OLIVEIRA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Larissa Helena da Rosa Pignatari,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,Larissa Saldanha Vieira,Instituto Luterano de Ensino Superior de Ji-Paraná,Ji-Paraná,RO,NF,0,2002
+228,Lauro Benedito Lira Júnior,Fundação de Assistência e Educação - FAESA (campus I),Vitória,ES,NF,0,2002
+228,Leandro Augusto Costa,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Leandro Guengo Mizuguchi,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+228,Leandro José Ribeiro Santos,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Leandro Mitsuo Hanada,Universidade Federal de São Carlos,São Carlos,SP,NF,0,2002
+228,Leandro Rodrigues Noguelli,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Leandro Santos Ferreira,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Leocélio Ap. Santana Valente,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Leonardo Borille de Queiroz,Faculdades Rio-Grandenses - FARGS,Porto alegre,RS,NF,0,2002
+228,Leonardo Felipe de Avila Calbusch,Universidade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2002
+228,Luana Hohmann,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+228,Lucas Amaral de Melo,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2002
+228,Lucas Caldas Heringer de Freitas,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+228,Lucas Lima Pires,Faculdades Integradas de Caratinga,Caratinga,MG,NF,0,2002
+228,Lucas Soranz Gouvea,Universidade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2002
+228,Luis Henrique de Pierri,Centro Universitário de Votuporanga - CEUV,Votuporanga,SP,NF,0,2002
+228,Luiz Sales Rabelo,Cotemig,Belo Horizonte,MG,NF,0,2002
+228,Luiz carlos de Moura,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Luís Otávio Coelho Braga,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Marcelo Adriano Amancio,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,Marcelo Augusto Souza Gomes,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+228,Marco Antônio Pacheco Júnior,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Marco Aurélio da Silva,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Marcos Rangel Junior,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+228,Marcus vinícius Duarte Teixeira,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Maria Carolina Matera Bozza,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2002
+228,Maria Fernanda Corrêa,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Mariane Marques de Oliveira,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+228,Mario Xavier Filho,UNIVAP,São José dos Campos,SP,NF,0,2002
+228,Maurício B. Lorenzo Brandon,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Melrulim Camilo,Faculdade Cenecista de Joinville,Joinville,SC,NF,0,2002
+228,Michael Queiroz Guimarães,"Escola Técnica de Eletrônica ""Francisco Moreira da Costa""",Santa Rita do Sapucaí,MG,NF,0,2002
+228,Michele Izawa,UNIVAP,São José dos Campos,SP,NF,0,2002
+228,Michele Juliane Favero,URI - Campus de Erechim,Erechim,RS,NF,0,2002
+228,Mércia Toledo Piza Moreira,Instituto Luterano de Ensino Superior de Ji-Paraná,Ji-Paraná,RO,NF,0,2002
+228,Naone Alves da Silva,CEFET/RN,Natal,RN,NF,0,2002
+228,Odair Beraldo Nunes,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Odenir P. da Silva Junior,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2002
+228,Oliver Cabral Jorge,Colégio Técnico de Campinas - UNICAMP,Campinas,SP,NF,0,2002
+228,Orlando F. S. Bordoni,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Oscar Isauro Bacelar Marques,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+228,Osvaldo Massakazu Kohatsu,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+228,Otmar Martins Pereira Júnior,CEFET,Belo Horizonte,MG,NF,0,2002
+228,PEDRO HENRIQUE DE O. CAVALCANTE,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Paolo Chiappin,IME-USP,São Paulo,SP,NF,0,2002
+228,Paula Andréa Monelli Fonseca,CEFET/RN,Natal,RN,NF,0,2002
+228,Paulo Alan Pinho Rego Vieira,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+228,Pedro Augusto Munari Júnior,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2002
+228,Pedro Dias,Colégio Técnico Industrial Prof. Mário Alquati - FURG,Rio Grande,RS,NF,0,2002
+228,Pedro Wilson Félix M. Neto,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+228,Pieter Monteiro da Silva Veldman,CEFET/RN,Natal,RN,NF,0,2002
+228,Priscila Cristiane Kido martins,Universidade Estadual Paulista,São José do Rio Preto,SP,NF,0,2002
+228,RENAN DO CARMO REIS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,RENÊ LEMOS DE ALMEIDA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,RICARDO PENHA DE QUEIROGA,UNIVAP,São José dos Campos,SP,NF,0,2002
+228,RUBEN COSTA TAVARES DE OLIVEIRA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Rafael Andrade Cavalaro,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,Rafael Augusto Dias de Souza,Faculdade SENAC de Ciências Exatas e Tecnologia,São Paulo,SP,NF,0,2002
+228,Rafael Bruno Cavalhero de Oliveira,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Rafael Luiz de Oliveira Gomes,UNIVAP,São José dos Campos,SP,NF,0,2002
+228,Rafael Moresca,PUCPR - Campus Londrina,Londrina,PR,NF,0,2002
+228,Rafael Prado de Oliveira,CCEAT PUC-Campinas,Campinas,SP,NF,0,2002
+228,Rafael Teixeira Eufrasio,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+228,Rafael Vanzin,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Rafael de Paula,Universidade Metodista de Piracicaba (UNIMEP),Piracicaba,SP,NF,0,2002
+228,Raquel Lara dos Santos,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Reginaldo Acássio de Faria,"Escola Técnica de Eletrônica ""Francisco Moreira da Costa""",Santa Rita do Sapucaí,MG,NF,0,2002
+228,Renan Eduardo Moreira,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Renata Azevedo Santos Carvalho,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+228,Renato Bizuti,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+228,Renato Leite Monteiro,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+228,Ricardo Amaro Melo Geófilo,FEPI - Fundação de Ensino e Pesquisa de Itajubá,Itajubá,MG,NF,0,2002
+228,Ricardo Bueno Borges,"Escola Técnica de Eletrônica ""Francisco Moreira da Costa""",Santa Rita do Sapucaí,MG,NF,0,2002
+228,Ricardo Marcelino Ito,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+228,Ricardo Murad,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Ricardo de Assunção Gonçalves,Universidade Federal Fluminense,Niterói,RJ,NF,0,2002
+228,Roberta Larisse B. C. Oliveira,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Robson Paines da Silveira,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,Rodrigo Aparecido Marques,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Rodrigo Vitoria Lopes,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,NF,0,2002
+228,Rogério de Avella Campos Cordeiro,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+228,Ronaldo Andrusyszyn Celino,Universidade Tiradentes - UNIT,Aracaju,SE,NF,0,2002
+228,Samuel Simão,Faculdades Integradas FACVEST,LAGES,SC,NF,0,2002
+228,Sandro Gallina,URI - Campus de Erechim,Erechim,RS,NF,0,2002
+228,Saulo Eduardo F. Oliveira,Centro Federal de Educação Tecnológica de São Paulo,Cubatão,SP,NF,0,2002
+228,Sicilia Ferreira Ponce Pasini Judice,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+228,Susana Elisandra Brinker de Oliveira,Colégio Coração de Maria,Esteio,RS,NF,0,2002
+228,THIAGO ENCARNAÇÃO MATOS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,TIAGO GUEDES CAVALCANTE,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+228,Tatiane Rodrigues,Fac. de Informática de Passos,Passos,MG,NF,0,2002
+228,Thatene Louise Alves de Souza Ramos,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Thiago Alvarenga,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Thiago Augusto Pelegrini Ferreira,Fundação Paulista de Tecnologia e Educação,Lins,SP,NF,0,2002
+228,Thiago Dias Torres,Faculdades Rio-Grandenses - FARGS,Porto alegre,RS,NF,0,2002
+228,Thiago Fabricio Lopes,UNESP - RIO CLARO,Rio Claro,SP,NF,0,2002
+228,Thiago Jost,UFMS - Universidade Federal de Mato Grosso do Sul,Campo Grande,MS,NF,0,2002
+228,Thiago Moreira Rodrigues,IME-USP,São Paulo,SP,NF,0,2002
+228,Thiago Ribeiro de Azeredo,Universidade Candido Mendes - Campos,Campos dos Goytacazes,RJ,NF,0,2002
+228,Thiago Rodrigues Muniz,Universidade do Planalto Catarinense - UNIPLAC,Lages,SC,NF,0,2002
+228,Thiago Silverio,Universidade Metodista de Piracicaba (UNIMEP),Piracicaba,SP,NF,0,2002
+228,Thomas David Serafini de Oliveira,IME-USP,São Paulo,SP,NF,0,2002
+228,Tiago Henrique Migliorini,Centro Universitário Filadelfia - UniFil,Londrina,PR,NF,0,2002
+228,Tiago Pereira Lima,Universidade Salvador - UNIFACS,Salvador,BA,NF,0,2002
+228,Tiago Porto Barbosa,Colégio Farias Brito,Fortaleza,CE,NF,0,2002
+228,Tiago Teixeira Lopes,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+228,Tiago de Freitas Pereira,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Tiago de Morais Montanher,UNIFIEO - Centro Universitário FIEO,Osasco,SP,NF,0,2002
+228,Urgel Luiz Camargo Augustin Filho,PUCPR,Curitiba,PR,NF,0,2002
+228,Valmir Tuna Junior,UNICID - Universidade Cidade de São Paulo,São Paulo,SP,NF,0,2002
+228,Victor Albuquerque Correa,Universidade de Fortaleza,Fortaleza,CE,NF,0,2002
+228,Victor Augusto Borges Dias de Almeida,Colégio Politécnico Bento Quirino - Poli-Bentinho,Campinas,SP,NF,0,2002
+228,Victor Torres Moreira,Colégio Universitário Padre de Man,Coronel Fabriciano,MG,NF,0,2002
+228,Vinicius Baenas Tiburcio,Universidade Estadual Paulista,Bauru,SP,NF,0,2002
+228,Vinicius Hernandes,Faculdades Rio-Grandenses - FARGS,Porto alegre,RS,NF,0,2002
+228,Vinicius da Silva Santos,Instituto Municipal de Ensino Superior de Assis,Assis,SP,NF,0,2002
+228,Vitor Hugo Formoso de Souza,CETEC - UCS,Caxias do Sul,RS,NF,0,2002
+228,Wagner Baumecker Coelho,CEFET,Belo Horizonte,MG,NF,0,2002
+228,Wagner Hashimoto,Centro Universitário de Votuporanga - CEUV,Votuporanga,SP,NF,0,2002
+228,Wanderley Macedo Pinheiro Junior,Instituto Luterano de Ensino Superior de Ji-Paraná,Ji-Paraná,RO,NF,0,2002
+228,William Pereira de Paula,Universidade Católica Dom Bosco,Campo Grande,MS,NF,0,2002
+228,Willian Schimidt,Colégio Técnico de Limeira - UNICAMP,Limeira,SP,NF,0,2002
+228,ÍCARO OLIVEIRA DE OLIVEIRA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,NF,0,2002
+140,ANDREW DOURADO MARINHO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,0,2005
+140,Andre Nobrega Marques,CEFET - SP,São Paulo,SP,HM,0,2005
+140,Caio Augusto Moraes,Unesp - Bauru,Bauru,SP,HM,0,2005
+140,Felipe Augusto Archangelo,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,HM,0,2005
+140,Marcos Mansano Furlan,Unesp - Bauru,Bauru,SP,HM,0,2005
+140,Marcus Vinicius da Motta Vieira,Universidade Federal Fluminense,Niterói,RJ,HM,0,2005
+140,Marina Flavia Silva Santos,Unoeste - Universidade do Oeste Paulista,Presidente Prudente,SP,HM,0,2005
+140,Rafael Marques Alves,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,HM,0,2005
+140,Thomas Jensen,Universidade Estadual de Ponta Grossa,Ponta Grossa,PR,HM,0,2005
+140,Wellington Tadeu dos Santos,ETE Dr. Francisco Nogueira de Lima,Casa Branca,SP,HM,0,2005
+150,Bruno Bàere Pedarassi Lamba de Araujo,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,HM,0,2005
+150,Eduardo Andreetta Fontana,Centro Tecnológico Universidade de Caxias do Sul - CETEC/UCS,Caxias do Sul,RS,HM,0,2005
+150,Elizabeth Bonsaglia Barboza,Unesp - Bauru,Bauru,SP,HM,0,2005
+150,Felipe Garcia Bartulihe,Colégio Cruzeiro do Sul,São Paulo,SP,HM,0,2005
+150,Flávio Adalberto Kubota,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,HM,0,2005
+150,Lucas Veloso Saraiva,Instituto Militar de Engenharia,Rio de Janeiro,RJ,HM,0,2005
+150,Sabir Ribas,Centro Federal de Educação Tecnológica de Ouro Preto,Ouro Preto,MG,HM,0,2005
+150,Telmo Luis Correa Junior,Colégio Etapa,São Paulo,SP,HM,0,2005
+160,Arthur Miranda do Espirito Santo,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,HM,0,2005
+160,EMERSON VICTOR HUGO COSTA DE SÁ,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,0,2005
+160,Eliseu Massing Junior,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,HM,0,2005
+160,Fabio Galluzzo Monteiro,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,HM,0,2005
+160,Felipe do Amaral Matos,"Escola Técnica de Eletrônica ""Francisco Moreira da Costa""",Santa Rita do Sapucaí,MG,HM,0,2005
+160,Guilherme Adriano Fôlego,Colégio Etapa,São Paulo,SP,HM,0,2005
+160,João Guilherme Ribeiro Moreno,Colégio Cruzeiro do Sul,São Paulo,SP,HM,0,2005
+170,Daniela Medeiros Eler,Unoeste - Universidade do Oeste Paulista,Presidente Prudente,SP,HM,0,2005
+170,Fabrício Girardi Andreis,Centro Tecnológico Universidade de Caxias do Sul - CETEC/UCS,Caxias do Sul,RS,HM,0,2005
+170,Rodrigo Gonzalez Gonzaga de Oliveira,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,HM,0,2005
+180,André Berti Sassi,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,HM,0,2005
+180,Danilo Fiorelli Cano,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,HM,0,2005
+180,Danilo Gonçalves de Carvalho,CEFET - SP,São Paulo,SP,HM,0,2005
+180,HALLEN ALFREDO RISCHTER,Centro Federal de Educação Tecnológica do Espírito Santo,Vitória,ES,HM,0,2005
+180,Marcel Sartor Fabris,SATC - Associação Beneficente da Indústria Carbonífera de SC,Criciúma,SC,HM,0,2005
+180,Raphael Amaral Mello Pimentel,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,HM,0,2005
+180,Thiago de Moraes Sfredo,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,HM,0,2005
+190,Filipe Ferreira da Silva,Colégio Universitário Padre de Man,Coronel Fabriciao,MG,HM,0,2005
+190,Marcela Sobrinho Pereira,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,0,2005
+190,Roberto Sonnino,COLÉGIO OBJETIVO,São Paulo,SP,HM,0,2005
+190,Thiago Mota Silva,Colégio Universitário Padre de Man,Coronel Fabriciao,MG,HM,0,2005
+200,Darcy Buss Neto,Escola Técnica José Cesar de Mesquita,Porto Alegre,RS,Bronze,0,2005
+200,Diego Gottselig,Centro de Ensino Médio EIT - CEMEIT,Taguatinga,DF,Bronze,0,2005
+200,Emerson Florencio Padula,Universidade Anhembi Morumbi,São Paulo,SP,Bronze,0,2005
+200,Fabio Sendoda Yamate,IME-USP,São Paulo,SP,Bronze,0,2005
+200,Ilson Bolzan,Escola Técnica José Cesar de Mesquita,Porto Alegre,RS,Bronze,0,2005
+200,Larissa Rodrigues Ribeiro,Colégio Batista Santos Dumont,Fortaleza,CE,Bronze,0,2005
+200,Luis Felipe Melo Mule Lacerda,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,Bronze,0,2005
+200,Luiz Otávio Ramos Gavaza,Universidade Federal da Bahia,Salvador,BA,Bronze,0,2005
+200,Manoel Vitor Macedo França,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,Bronze,0,2005
+200,Marcus de Assis Angeloni,Unesp - Bauru,Bauru,SP,Bronze,0,2005
+200,PEDRO BORGES OSÓRIO,Universidade Católica de Pelotas,Pelotas,RS,Bronze,0,2005
+200,Paulo Victor Reboucas de Carvalho,Organizacao Educacional Farias Brito,Fortaleza,CE,Bronze,0,2005
+200,Renato Felipe Atilio,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Bronze,0,2005
+210,André de Oliveira Melo,Universidade Federal Fluminense,Niterói,RJ,Bronze,0,2005
+210,Diego Raphael Amancio,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,Bronze,0,2005
+210,Luiz Henrique Ribeiro de Souza Campos,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,Bronze,0,2005
+210,Marcelo Saviski,SENAI/SC - Jaraguá do Sul,Jaraguá do Sul,SC,Bronze,0,2005
+210,ONILTON DE OLIVEIRA MACIEL JUNIOR,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Bronze,0,2005
+210,Rafael da Ponte Barbosa,CEFET-CE,Fortaleza,CE,Bronze,0,2005
+210,Rodrigo Lorenz,COTIL-Colégio Técnico de Limeira-UNICAMP,Limeira,SP,Bronze,0,2005
+210,Rubem Corso Rodrigues Azenha,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Bronze,0,2005
+220,ALAN SOUZA DE CASTRO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Bronze,0,2005
+220,Daniel Henrique Garcia,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Bronze,0,2005
+220,"Pedro D""Aquino F.F. de Sá Barbuda",IME-USP,São Paulo,SP,Bronze,0,2005
+220,Rafael Victor Ferreira Alves,Instituto Militar de Engenharia,Rio de Janeiro,RJ,Bronze,0,2005
+230,Natanael Pereira da Costa,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,Bronze,0,2005
+230,Patricia Kawaguchi Cesar,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Bronze,0,2005
+230,Renato Marques Reis de Souza,CEFET - SP,São Paulo,SP,Bronze,0,2005
+240,Alexandre Henriques Nunes,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,Bronze,0,2005
+240,Antonio Silveira Antunes,Escola Técnica Santo Inácio,Porto Alegre,RS,Bronze,0,2005
+240,Felipe Andrade Holanda,Organizacao Educacional Farias Brito,Fortaleza,CE,Bronze,0,2005
+250,Alexandre H. Deguchi Martani,Colégio Etapa,São Paulo,SP,Bronze,0,2005
+250,Bruno Pereira Bueno,CEFET - SP,São Paulo,SP,Bronze,0,2005
+250,Caio Guimarães Souza,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,Bronze,0,2005
+250,HAILTON FERRAZ DA SILVA JUNIOR,Colégio Técnico Industrial - Unesp,Bauru,SP,Bronze,0,2005
+250,Jose Ernesto Mortara San Martin,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Bronze,0,2005
+250,Kim Lima Silva,Faculdade 7 de Setembro,Fortaleza,CE,Bronze,0,2005
+250,MATHEUS GIBRAM CAMPOS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Bronze,0,2005
+250,ROGERIO BRITO RAMOS,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Bronze,0,2005
+250,Rafael Marini Silva,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,Bronze,0,2005
+250,Vinícius Rodrigues de Uzêda,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,Bronze,0,2005
+260,Bruno da Costa Moreira,Universidade Federal Fluminense,Niterói,RJ,Prata,0,2005
+260,Daniel Silveira da Silva Leite,Universidade Federal Fluminense,Niterói,RJ,Prata,0,2005
+260,FILIPE VERNETTI GIUSTI,Universidade Católica de Pelotas,Pelotas,RS,Prata,0,2005
+260,Rafael Godoi,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Prata,0,2005
+260,William Douglas Neves e Carvalho,Faculdades Integradas de Caratinga,Caratinga,MG,Prata,0,2005
+270,BRUNO SEABRA CARNEIRO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Prata,0,2005
+270,Lucas Cavalcanti dos Santos,IME-USP,São Paulo,SP,Prata,0,2005
+270,Luiz Gustavo Cardoso Ribeiro,Colégio Militar de Curitiba,Curitiba,PR,Prata,0,2005
+270,Rafael Liu Santos,Depto de Computação - Universidade de Brasília,Brasília,DF,Prata,0,2005
+280,Alexandre Martins Ferreira de Sousa,Colegio Modulo,Sao Paulo,SP,Prata,0,2005
+280,Igor Ribeiro de Assis,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,Prata,0,2005
+290,Daniel Cason,Universidade Federal da Bahia,Salvador,BA,Prata,0,2005
+290,Guilherme Carvalho Januário,Colégio Ser Universitário de Jundiaí,Jundiaí,SP,Prata,0,2005
+290,Mauro Cardoso Lopes,Colégio Etapa,São Paulo,SP,Prata,0,2005
+290,Rodolfo Stangherlin,Centro Tecnológico Universidade de Caxias do Sul - CETEC/UCS,Caxias do Sul,RS,Prata,0,2005
+300,Caio Fabricio Coutinho,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Prata,0,2005
+300,Fabio Lemes Daneluzzi,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,Prata,0,2005
+300,Jefferson Quesado Neto,Colégio Batista Santos Dumont,Fortaleza,CE,Prata,0,2005
+300,Luiz Paulo Coelho Ferreira,Colégio Universitário Padre de Man,Coronel Fabriciao,MG,Prata,0,2005
+300,Paulo Roberto Almeida Costa,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Prata,0,2005
+310,ALEX CASTRO DE BRITO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Prata,0,2005
+310,Andre Dorte dos Santos,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Prata,0,2005
+310,Eduardo Augusto Ribas,Colégio Militar de Curitiba,Curitiba,PR,Prata,0,2005
+310,Gabriel Figueiró de Oliveira,Organizacao Educacional Farias Brito,Fortaleza,CE,Prata,0,2005
+320,Eduardo Villa de Moura Marcolino,Universidade Federal Fluminense,Niterói,RJ,Prata,0,2005
+320,Marcos Paulo Faria Lima Barreto,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,Prata,0,2005
+320,SHELDON KERME SANTOS DE LUCENA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,Prata,0,2005
+330,Márcio Furlani Carmona,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,Prata,0,2005
+340,Diego Neves da Hora,Centro Federal de Educação tecnológica de Minas Gerais,Belo Horizonte,MG,Prata,0,2005
+340,Rodrigo P Franceschini,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Prata,0,2005
+340,Tiago Santos da Silva,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,Prata,0,2005
+350,Alinson Santos Xavier,Organizacao Educacional Farias Brito,Fortaleza,CE,Prata,0,2005
+350,Guilherme Goes Amici,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,Prata,0,2005
+350,Igor Machado Coelho,Centro Federal de Educação Tecnológica de Ouro Preto,Ouro Preto,MG,Prata,0,2005
+350,Thiago Costa Leite Santos,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,Prata,0,2005
+360,Lucas Teixeira Sá,Organizacao Educacional Farias Brito,Fortaleza,CE,Ouro,0,2005
+360,Marcio Alexandre Marar Moreno,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,Ouro,0,2005
+370,Cesar Ryudi Kawakami,Colégio Etapa,São Paulo,SP,Ouro,0,2005
+380,Guilherme Rodrigues N. de Souza,Colégio Etapa,São Paulo,SP,Ouro,0,2005
+390,Gabriel Tavares Bujokas,Colégio Etapa,São Paulo,SP,Ouro,0,2005
+390,Leon Serfaty Kacowicz,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,Ouro,0,2005
+400,Elton Gomes Coriolano,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,Ouro,0,2005
+400,RUDY MATELA BRAQUEHAIS,Organizacao Educacional Farias Brito,Fortaleza,CE,Ouro,0,2005
+410,Luiz Fernando O. Corte Real,IME-USP,São Paulo,SP,Ouro,0,2005
+410,Paulo Matias,COLÉGIO OBJETIVO,São Paulo,SP,Ouro,0,2005
+410,Rodrigo Santiago Lima,Organizacao Educacional Farias Brito,Fortaleza,CE,Ouro,0,2005
+450,Felipe Rodrigues Nogueira de Souza,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,Ouro,0,2005
+460,Henry Wei Cheng Hsu,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,Ouro,0,2005
+460,Paulo Victor Teixeira Eufrásio,Colégio Batista Santos Dumont,Fortaleza,CE,Ouro,0,2005
+460,Rafael Daigo Hirama,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,Ouro,0,2005
+500,André Linhares Rodrigues,Colégio Batista Santos Dumont,Fortaleza,CE,Ouro,0,2005
+500,André Slepetys,IME-USP,São Paulo,SP,Ouro,0,2005
+500,Helder Toshiro Suzuki,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,Ouro,0,2005
+500,Pedro Thiago Ezequiel de Andrade,Colégio Batista Santos Dumont,Fortaleza,CE,Ouro,0,2005
+500,Rafael da Silva Holanda,Colégio Batista Santos Dumont,Fortaleza,CE,Ouro,0,2005
+500,Raphael Henrique Ribas,Curso de Bacharelado em Ciência da Computação da UFPR,Curitiba,PR,Ouro,0,2005
+1,Daniel Ribeiro Moreira,Universidade Federal do Rio Grande do Norte,Natal,RN,0,0,2006
+10,Ricardo Hahn Pereira,COLÉGIO OBJETIVO,São Paulo,SP,0,0,2006
+11,Cesar Ryudi Kawakami,Colégio Etapa,São Paulo,SP,0,0,2006
+12,Renato Felipe Atilio,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,0,0,2006
+13,Guilherme Oliveira Campos,Unesp - Bauru,Bauru,SP,0,0,2006
+14,GABRIEL TAVARES BUJOKAS,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,0,2006
+15,Paulo Victor Teixeira Eufrasio,Universidade Federal do Ceará,Fortaleza,CE,0,0,2006
+16,Paulo Roberto Almeida Costa,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,0,0,2006
+17,ALEXANDRE COELHO RONDON,Colégio Técnico Industrial - Unesp,Bauru,SP,0,0,2006
+18,Felipe Holanda Moreira,FARIAS BRITO - PRÉ VESTIBULAR,FORTALEZA,CE,0,0,2006
+19,Diego Carneiro Camara,UNICAMP - Colégio Técnico de Campinas,Campinas,SP,0,0,2006
+2,André Linhares Rodrigues,Colégio Batista Santos Dumont,Fortaleza,CE,0,0,2006
+20,CRISTIAN ROSSI,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,0,0,2006
+21,Felipe José de Oliveira,Colégio Madre Iva,Cotia,SP,0,0,2006
+22,Rodrigo Rafael Santos Costa Chiossi,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,0,0,2006
+3,Mauro Cardoso Lopes,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,0,0,2006
+4,Eduardo Augusto Ribas,Colégio Militar de Curitiba,Curitiba,PR,0,0,2006
+5,Victor Arndt Mueller,Universidade Regional de Blumenau - Campus IV,Blumenau,SC,0,0,2006
+6,Caio Guimarães Souza,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,0,0,2006
+7,Diego Andrés de Barros Lima Barbosa,Colégio Motivo,recife,PE,0,0,2006
+8,Bruno Bottino Ferreira,Universidade Federal do Rio de Janeiro - DCC UFRJ,Rio de Janeiro,RJ,0,0,2006
+9,LUCAS TEIXEIRA SÁ,Colégio Ari de Sá Cavalcante Sede Duque de Caxias,Fortaleza,CE,0,0,2006
+1,Eduardo Augusto Ribas,Universidade Federal do Paraná,Curitiba,PR,0,10500,2007
+10,Gabriel Luís Mello Dalalio,Colégio Poliedro,São José dos Campos,SP,0,8476,2007
+11,José Marcos Andrade Ferraro,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,8310,2007
+12,Fábio Mallaco Moreira,Colégio Poliedro,São José dos Campos,SP,0,8100,2007
+13,Hailton Ferraz da Silva Junior,Unesp - Bauru,Bauru,SP,0,7300,2007
+14,Daniel Santos Ferreira Alves,DCC/UFRJ - Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,0,7291,2007
+15,Paulo André Carvalho de Melo,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7271,2007
+16,Bruno Picinin Cardoso,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7205,2007
+17,Tiago Madeira,Colégio Salesiano Itajaí,Itajaí,SC,0,7180,2007
+18,Pedro Veras Bezerra da Silva,INSTITUTO MILITAR DE ENGENHARIA,Rio de Janeiro,RJ,0,7108,2007
+19,Davi Albernaz,Universidade Estadual de Campinas,Campinas,SP,0,7048,2007
+2,André Linhares Rodrigues,Universidade Estadual de Campinas,Campinas,SP,0,10320,2007
+20,FELIPE HOLANDA MOREIRA,OrganizaçÂão Educacional Farias Brito,Fortaleza,CE,0,6770,2007
+21,Marlen Lincoln da Silva,Colégio Batista Santos Dumont,Fortaleza,CE,0,6325,2007
+22,Guilherme Rodrigues Nogueira de Souza,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,6295,2007
+23,MIKAIL CAMPOS FREITAS,Colégio Etapa,São Paulo,SP,0,6285,2007
+24,Alexandre Coelho Rondon,"Colégio Técnico Industrial ""Prof. Isaac Portal Roldan""",Bauru,SP,0,6038,2007
+25,DEMETRIUS SILVA DE SANTANA,CEFET-SE - Centro Federal de Educação Tecnológica de Sergipe,Aracaju,SE,0,6033,2007
+26,Yuri Kunde Schlesner,Escola de EducaçÂão Básica Educar-se,Santa Cruz do Sul,RS,0,6008,2007
+27,André Melo Rios,"Colégio Técnico Industrial ""Prof. Isaac Portal Roldan""",Bauru,SP,HM,5998,2007
+28,Victor de Sousa Soares,ime-usp,São Paulo,SP,HM,5796,2007
+29,MARCELO GALVÃO POVOA,Colégio Etapa,São Paulo,SP,HM,5768,2007
+3,David Nissimoff,Colégio I. L. Peretz,São Paulo,SP,0,9673,2007
+30,Rodrigo de Moura Canaan,DCC/UFRJ - Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,5725,2007
+31,Alessandro Andrioni Silva,Colégio Poliedro,São José dos Campos,SP,HM,5645,2007
+32,IVAN HITOSHI OYAMA,Colégio Etapa,São Paulo,SP,HM,5600,2007
+33,Murilo Murbach Travareli,Colégio Poliedro,São José dos Campos,SP,HM,5508,2007
+34,Giuliano de Souza Vilela Cid,Universidade Federal do Rio Grande do Norte,Natal,RN,HM,5468,2007
+35,Renato Rebouças de Medeiros,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,5433,2007
+36,Luiz Eduardo Pizzinatto,Universidade Tecnológica Federal do Paraná - Campo Mourão,Campo Mourão,PR,HM,5356,2007
+37,Rodrigo A Cardoso da Silva,Colégio Técnico de Campinas da UNICAMP,Campinas,SP,HM,5321,2007
+38,Alessandro Wagner Palmeira,COLÉGIO OBJETIVO,São Paulo,SP,HM,5310,2007
+39,FELIPE MONTE DE ANDRADE,OrganizaçÂão Educacional Farias Brito,Fortaleza,CE,HM,5271,2007
+4,Daniel dos Santos Marques,Pontifícia Universidade Católica do Rio de Janeiro,Rio de Janeiro,RJ,0,9471,2007
+40,Thiago Anzolin de Godoi,Universidade Estadual de Campinas,Campinas,SP,HM,5185,2007
+41,Levi Almeida Coelho,Colégio Batista Santos Dumont,Fortaleza,CE,HM,5128,2007
+42,Lucas Pierezan Magalhães,DCC/UFRJ - Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,5083,2007
+43,THIAGO S. PINHEIRO,Colégio Etapa,São Paulo,SP,HM,5023,2007
+44,Francelino Franco Leite de Matos Sousa,Colégio Batista Santos Dumont,Fortaleza,CE,HM,5018,2007
+45,Evandro Barbosa Carreira,"Colégio Técnico Industrial ""Prof. Isaac Portal Roldan""",Bauru,SP,HM,4983,2007
+46,Victor Lassance O e Silva,Colégio Técnico de Campinas da UNICAMP,Campinas,SP,HM,4790,2007
+47,Adriano Brito Godinho,Colégio Técnico de Campinas da UNICAMP,Campinas,SP,HM,4776,2007
+48,Caio Vinícius Silva Braz,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,4766,2007
+49,Leonardo Sameshima Taba,Universidade Federal de São Carlos,São Carlos,SP,HM,4735,2007
+5,ALEXANDRE NOBUO KUNIEDA,Colégio Etapa,São Paulo,SP,0,9421,2007
+50,Diego Andrés de Barros Lima Barbosa,INSTITUTO MILITAR DE ENGENHARIA,Rio de Janeiro,RJ,HM,4705,2007
+51,Vinicius de Freitas Reis,ICMC-USP,Sao Carlos,SP,HM,4620,2007
+52,GABRIEL FERREIRA ARAÚJO,CEFET-SE - Centro Federal de Educação Tecnológica de Sergipe,Aracaju,SE,HM,4605,2007
+6,REGIS PRADO BARBOSA,OrganizaçÂão Educacional Farias Brito,Fortaleza,CE,0,8733,2007
+7,Ricardo Hahn Pereira,COLÉGIO OBJETIVO,São Paulo,SP,0,8636,2007
+8,Rodrigo Alves Lima,COLÉGIO OBJETIVO,São Paulo,SP,0,8606,2007
+9,Cesár Ryudi Kawakami,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,8501,2007
+1,Rodrigo Alves Lima,IME-USP,São Paulo,SP,0,10500,2008
+10,FELIPE HOLANDA MOREIRA,Organização Educacional Farias Brito,Fortaleza,CE,0,6280,2008
+11,Guilherme Heynemann Bruzzi,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,0,6135,2008
+12,André Hahn Pereira,COLÉGIO OBJETIVO,São Paulo,SP,0,5875,2008
+13,Diogo Bonfim Moraes Morant de Holanda,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,5865,2008
+14,Rodolfo Nobre Bitu de Morais,Colégio Batista Santos Dumont,Fortaleza,CE,0,5640,2008
+15,REGIS PRADO BARBOSA,Organização Educacional Farias Brito,Fortaleza,CE,0,5600,2008
+16,André Sterenberg Frankenthal,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,0,5595,2008
+17,Alessandro Wagner Palmeira,COLÉGIO OBJETIVO,São Paulo,SP,0,5590,2008
+18,Igor da Fonseca Ramos,UFRJ - Instituto de Matemática,Rio de Janeiro,RJ,0,5400,2008
+19,Pedro Guimarães Dupim,UFRJ - Instituto de Matemática,Rio de Janeiro,RJ,0,5385,2008
+2,Marcelo Galvão Póvoa,Universidade Estadual de Campinas,Campinas,SP,0,10495,2008
+20,Marlen Lincoln da Silva,Ari de Sá Cavalcante,Fortaleza,CE,0,5225,2008
+21,Ivan Hitoshi Oyama,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,4995,2008
+22,Tiago Madeira,Universidade Federal de Santa Catarina,Florianópolis,SC,0,4230,2008
+23,Felipe Oliveira Carvalho,colégio monteiro lobato,itabaiana,SE,0,3640,2008
+24,HENRIQUE PONDÉ DE OLIVEIRA PINTO,Colégio Etapa,São Paulo,SP,0,3400,2008
+25,Luiz Eduardo Pizzinatto,Universidade Tecnológica Federal do Paraná - Campo Mourão,Campo Mourão,PR,0,3370,2008
+26,Jonathan Fenile de Castro,Universidade Estadual de Campinas,Campinas,SP,0,3270,2008
+26,Renato Felipe Atilio,Universidade Estadual de Campinas,Campinas,SP,0,3270,2008
+28,Marco Aurélio Diniz Junqueira,Universidade Estadual de Campinas,Campinas,SP,0,3250,2008
+29,Lucas Tiago Castro Jesus,Colégio Poliedro,São José dos Campos,SP,0,3165,2008
+3,Alexandre Nobuo Kunieda,Universidade Estadual de Campinas,Campinas,SP,0,8740,2008
+30,Camila MiyuKi de Sousa,FCT-UNESP,Presidente Prudente,SP,0,3090,2008
+31,ALEXANDRE MARQUES ALBANO DA SILVEIRA,COLÉGIO LUCIANO FEIJÃO,SOBRAL,CE,0,3070,2008
+32,Pedro Matias de Araújo,Universidade Tecnológica Federal do Paraná - Campo Mourão,Campo Mourão,PR,0,3055,2008
+33,Bruno Cebukin,Colégio I. L. Peretz,São Paulo,SP,0,3050,2008
+34,Bruno Espinosa Crepaldi,"Colégio Técnico Industrial ""Isaac Portal Roldán"" - UNESP",Bauru,SP,0,3045,2008
+35,Rodrigo Augusto Cardoso da Silva,Colégio Técnico de Campinas,Campinas,SP,0,3040,2008
+36,Gustavo Luis Cabride,Colégio Técnico de Campinas,Campinas,SP,0,3030,2008
+37,ELVYS LINHARES PONTES,COLÉGIO LUCIANO FEIJÃO,SOBRAL,CE,0,3020,2008
+37,Marcos Victor Pereira Vieira,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,3020,2008
+39,Guilherme Fernandes de Araújo,Centro Federal de Educação Tecnológica do RN,Natal,RN,HM,3000,2008
+39,Peter Gomes Brasil,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,HM,3000,2008
+39,Raphael Rodrigues Campos,Universidade Federal de Viçosa,Viçosa,MG,HM,3000,2008
+39,Roberto Kazuo Fukuda,FIAP - Faculdade de Informática e Administração Paulista,SÃO PAULO,SP,HM,3000,2008
+39,Vitor Tomita Silva,Colégio Poliedro,São José dos Campos,SP,HM,3000,2008
+4,Ricardo Hahn Pereira,IME-USP,São Paulo,SP,0,8500,2008
+44,Jonas Rossi Dourado,Instituto de Ciências Matemáticas e de Computação,São Carlos - SP,SP,HM,2995,2008
+45,Luiz Felipe Lage Campos Tenaglia,Coltec - UFMG,Belo Horizonte,MG,HM,2980,2008
+46,Fábio Mallaco Moreira,Colégio Poliedro,São José dos Campos,SP,HM,2950,2008
+46,Leonardo Spártaco C. de Sá,UFRJ - Instituto de Matemática,Rio de Janeiro,RJ,HM,2950,2008
+48,Arthur Nunes de Paiva Santos Queiroz,Coltec - UFMG,Belo Horizonte,MG,HM,2925,2008
+49,João Mário Malosso Zatelli,Unesp - Rio Preto,São José do Rio Preto,SP,HM,2915,2008
+5,Gabriel Luís Mello Dalalio,Colégio Poliedro,São José dos Campos,SP,0,7615,2008
+50,Camila de Souza do Carmo,Faculdades Doctum - Campus Cataguases,cataguases,MG,HM,2905,2008
+50,Ricardo Juliano Mesquita Silva Oda,IME-USP,São Paulo,SP,HM,2905,2008
+52,Riccardo Luigi Delai,Colégio Visconde de Porto Seguro - Unidade III,São Paulo,SP,HM,2900,2008
+6,Vitor Meneguzzi Groterhorst,COLÉGIO OBJETIVO,São Paulo,SP,0,7375,2008
+7,Pedro Veras Bezerra da Silva,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,0,7280,2008
+8,Victor Lassance Oliveira e Silva,Colégio Técnico de Campinas,Campinas,SP,0,7275,2008
+9,Walter Carlos Pessoa Cacau Filho,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,6605,2008
+1,André Hahn Pereira,COLÉGIO OBJETIVO,São Paulo,SP,0,9900,2009
+10,Vítor Meneguzzi Groterhorst,COLÉGIO OBJETIVO,São Paulo,SP,0,5581,2009
+11,Arthur Nunes de Paiva Santos Queiroz,Coltec - UFMG,Belo Horizonte,MG,0,5481,2009
+12,Phyllipe César Ramos de Almeida Medeiros,Colégio GEO João Pessoa,João Pessoa,PB,0,5300,2009
+13,Victor Augusto Moraes Carvalho,"Colégio Técnico Industrial ""Isaac Portal Roldán"" - UNESP",Bauru,SP,0,4962,2009
+14,Luiz Eduardo Pizzinatto,Universidade Tecnológica Federal do Paraná - Campo Mourão,Campo Mourão,PR,0,4837,2009
+15,Bruno Espinosa Crepaldi,Instituto de Computacao Unicamp,Campinas,SP,0,4512,2009
+16,Danilo Marcolongo Afonso,IME-USP,"São Paulo""",SP,0,4500,2009
+16,Francisco Angelo Cabelo,"Colégio Técnico Industrial ""Isaac Portal Roldán"" - UNESP",Bauru,SP,0,4500,2009
+16,Matheus Phillipe Velozo Amaral,Colégio Padre de Man,Coronel Fabriciano,MG,0,4500,2009
+19,Pedro Paulo Marques do Nascimento,Centro Fed. de Educação Tecnológica Celso Suckow da Fonseca,Rio de Janeiro,RJ,0,4468,2009
+2,Felipe Abella Cavalcante Mendonça de Souza,Colégio GEO João Pessoa,João Pessoa,PB,0,9100,2009
+20,Rodolfo Nobre Bitu de Morais,Colégio Batista Santos Dumont,Fortaleza,CE,0,4375,2009
+21,DAVI DE MELO PONTES MENDES,Organização Educacional Farias Brito,Fortaleza,CE,0,4256,2009
+22,André Vitor Paganini,Colégio Técnico de Campinas - Unicamp,Campinas,SP,HM,3862,2009
+23,JAMES JUN HONG,Colégio Bandeirantes,São Paulo,SP,HM,3818,2009
+24,Victor Aguiar Evangelista de Farias,UNIVERSIDADE FEDERAL DO CEARÁ,FORTALEZA,CE,HM,3681,2009
+25,Antônio Deromir Neves da Silva Júnior,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,3587,2009
+26,MANRIQUE MACIEL,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,3537,2009
+27,Jefferson Bandeira da Silva,UFRJ - Instituto de Matemática,Rio de Janeiro,RJ,HM,3325,2009
+28,ALISON DE OLIVEIRA MARCZEWSKI,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,3181,2009
+29,Levi Almeida Coelho,UNIVERSIDADE FEDERAL DO CEARÁ,FORTALEZA,CE,HM,3150,2009
+3,Gabriel Luís Mello Dalalio,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7900,2009
+30,ROBERTO DE ALMEIDA C. NETO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,3106,2009
+31,Guilherme Heynemann Bruzzi,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,HM,3100,2009
+32,Guilherme Victal Alves da Costa,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,3018,2009
+33,JOSE AILTON AZEVEDO ARAUJO FILHO,COLÉGIO ARI DE SÁ CAVALCANTE - SEDE ALDEOTA,FORTALEZA,CE,HM,2931,2009
+34,Helton de Melo Duarte,"Instituto Federal de Educação, Ciência e Tecnologia do RN",Natal,RN,HM,2812,2009
+35,Cassius de Oliveira Puodzius,IME-USP,"São Paulo""",SP,HM,2700,2009
+36,MARLEN LINCOLN DA SILVA,COLÉGIO ARI DE SÁ CAVALCANTE - SEDE ALDEOTA,FORTALEZA,CE,HM,2687,2009
+37,FELIPE FREITAS SOARES,"INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ",Belém,PA,HM,2668,2009
+38,Gabriel Souza de Oliveira,Unesp - Bauru,Bauru,SP,HM,2656,2009
+39,ILLAN FEIMAN HALPERN,Colégio Etapa,São Paulo,SP,HM,2618,2009
+4,Fabio Ferman,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,0,7737,2009
+40,Felipe Oliveira Carvalho,Universidade Federal de Sergipe,São Cristóvão,SE,HM,2575,2009
+5,Renato Ferreira Pinto Junior,COLÉGIO OBJETIVO,São Paulo,SP,0,7337,2009
+6,Andre Frankenthal,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,0,7331,2009
+7,Pedro Veras Bezerra da Silva,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,0,6900,2009
+8,LEONARDO STEDILE,Colégio Etapa,São Paulo,SP,0,6543,2009
+9,Edgar Lavor,Unesp - Bauru,Bauru,SP,0,6143,2009
+1,André Hahn Pereira,IME-USP,São Paulo,SP,0,10100,2010
+10,Edgar Lavor,Unesp - Bauru,Bauru,SP,0,7300,2010
+11,Victor Gonçalves Elias,COLÉGIO MOTIVA JOÃO PESSOA,João Pessoa,PB,0,7100,2010
+12,Rodrigo Kazuo Ochigame,Colégio Poliedro SJC,São José dos campos,SP,0,6975,2010
+13,Patricia Fernanda Hongo,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,0,6912,2010
+14,Thiago Rosario Caetano,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,0,6900,2010
+15,Helton de Melo Duarte,Universidade Federal do Rio Grande do Norte,Natal,RN,0,6312,2010
+16,Franciso Angelo Cabelo,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,0,6187,2010
+17,Felipe Gomes Pegoraro,UTFPR - Universidade Tecnológica Federal de Paraná,Curitiba - PR,PR,0,6150,2010
+18,Gabriel Marques,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,0,6137,2010
+19,Nildo dos Santos Ribeiro Júnior,CEFET-MG / Campus VII Timóteo,Timóteo,MG,0,6112,2010
+2,Felipe Abella Cavalcante Mendonça de Souza,Colégio GEO João Pessoa,João Pessoa,PB,0,9100,2010
+20,RAIMUNDO RÔMULO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,0,6075,2010
+21,Matheus Giovanni Soares Beleboni,"Colégio Técnico Industrial ""Isaac Portal Roldán"" - UNESP",Bauru,SP,0,6012,2010
+22,Gabriel Borges,Colégio Olimpo,Goiânia,GO,HM,5562,2010
+23,Victor Lima Campos,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,HM,5525,2010
+24,Samuel Gomes Fadel,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,HM,5362,2010
+25,Sibelius Seraphini,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,HM,5350,2010
+26,Alexandre Scandelari Wolf,UTFPR - Universidade Tecnológica Federal de Paraná,Curitiba - PR,PR,HM,5187,2010
+27,Bernardo Vecchia Stein,Colégio Olimpo,Goiânia,GO,HM,5150,2010
+28,ÁLVARO REIS NETO,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,4975,2010
+29,ILGNER JUSTA FROTA,Colégio Ari de Sá Cavalcante,Fortaleza,CE,HM,4950,2010
+3,Renato Ferreira Pinto Junior,COLÉGIO OBJETIVO,São Paulo,SP,0,8700,2010
+30,Marcos Vinícius Trigo Romero,Unesp - Bauru,Bauru,SP,HM,4937,2010
+31,Jefferson Willian Gouveia Monteiro,Universidade Federal de Viçosa,Viçosa,MG,HM,4900,2010
+32,Thiago Yukio Itagaki Santos,Colégio Etapa,São Paulo,SP,HM,4737,2010
+33,Murilo Germano Sales da Silva,Instituto Federal de Educação Ciência e Tecnologia,São Paulo,SP,HM,4725,2010
+34,Gabriel Santana Cutrim,Instituto de Tecnologia ORT,Rio de Janeiro,RJ,HM,4387,2010
+35,Thiago Fujisaka Tanaka,Instituto de Ciências Matemáticas e de Computação,São Carlos,SP,HM,4337,2010
+36,ELDER MASSAHIRO YOSHIDA,Colégio Etapa,São Paulo,SP,HM,4312,2010
+37,JUSCELINO TANAKA,FUNDAÇÃO NOKIA DE ENSINO,MANAUS,AM,HM,4300,2010
+37,Liuri Loamí Ruyz Jorge,Colégio Objetivo de Ituverava,Ituverava,SP,HM,4300,2010
+37,Ruan Ramos Monteiro Silva,UNICAMP - Universidade Estadual de Campinas,Campinas,SP,HM,4300,2010
+4,CAIQUE PORTO LIRA,ORGANIZAÇÃO EDUCACIONAL FARIAS BRITO,FORTALEZA,CE,0,8500,2010
+4,Phyllipe Cesar Ramos de Almeida Medeiros,Universidade Federal de Campina Grande,Campina Grande,PB,0,8500,2010
+6,Lucas de Freitas Smaira,Colégio Poliedro SJC,São José dos campos,SP,0,8325,2010
+7,Rodrigo Ming Zhou,Centro Fed. de Educação Tecnológica Celso Suckow da Fonseca,Rio de Janeiro,RJ,0,8062,2010
+8,Felipe Lopes de Freitas,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7937,2010
+9,ILLAN FEIMAN HALPERN,Colégio Etapa,São Paulo,SP,0,7675,2010
+1,Marcos Massayuki Kawakami,Colégio Etapa,São Paulo,SP,0,10500,2011
+1,Renato Ferreira Pinto Junior,Colégio Objetivo,São Paulo,SP,0,10500,2011
+10,Rafael Farias Marinheiro,Centro de Informática - Ufpe,Recife,PE,0,7875,2011
+11,Caíque Porto Lira,Organização Educacional Farias Brito,Fortaleza,CE,0,7700,2011
+12,Victor Gonçalves Elias,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,6575,2011
+13,Lucas de Freitas Smaira,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,6425,2011
+14,Gabriel Borges,Unicamp - Universidade Estadual de Campinas,Campinas,SP,0,6150,2011
+15,Raul Dario Cabrera Tapia,Colégio Objetivo,São Paulo,SP,0,5700,2011
+16,Thiago Estrela Montenegro,Colégio Ari de Sá Cavalcante - Aldeota,Fortaleza,CE,HM,4337,2011
+17,Pedro Neves Lopes,Colégio Etapa,São Paulo,SP,HM,4300,2011
+18,Rafael Catalão Lopes Perrella,Colégio Motiva,João Pessoa,PB,HM,4262,2011
+19,Marco da Costa Schulze,Universidade Federal da Paraíba,João Pessoa,PB,HM,4175,2011
+20,Alexandre Cisneiros de Albuquerque Filho,Centro de Informática - Ufpe,Recife,PE,HM,4150,2011
+21,Álvaro Tavares de Oliveira,"Instituto Federal de Educação, Ciência e Tecnologia do Rn",Natal,RN,HM,4137,2011
+3,Felipe Abella Cavalcante Mendonça de Souza,Universidade Federal de Campina Grande,Campina Grande,PB,0,10462,2011
+4,Ramon Silva de Lima,Colégio Objetivo,São Paulo,SP,0,9012,2011
+5,Fernando Fonseca Andrade Oliveira,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,8787,2011
+6,Rodrigo Ming Zhou,Centro Fed. de Educação Tecnológica Celso Suckow da Fonseca,Rio de Janeiro,RJ,0,8625,2011
+7,Michel Rozenberg Zelazny,Colégio Etapa,São Paulo,SP,0,8537,2011
+8,Ivan Tadeu Ferreira Antunes Filho,Colégio Objetivo,São Paulo,SP,0,8337,2011
+9,André Amaral de Sousa,Colégio Etapa,São Paulo,SP,0,8112,2011
+1,André Amaral de Sousa,Colégio Etapa,São Paulo,SP,0,10500,2012
+1,Caique Porto Lira,Organização Educacional Farias Brito,Fortaleza,CE,0,10500,2012
+1,Manoel Lucas Urbano de Barros Lins,Universidade Federal de Campina Grande,Campina Grande,PB,0,10500,2012
+1,Marcos Massayuki Kawakami,Colégio Etapa,São Paulo,SP,0,10500,2012
+1,Rafael Kazuhiro Miyazaki,Colégio Etapa,São Paulo,SP,0,10500,2012
+1,Renato Ferreira Pinto Junior,Colégio Objetivo,São Paulo,SP,0,10500,2012
+11,Gustavo de Mello Crivelli,Unicamp - Universidade Estadual de Campinas,Campinas,SP,0,9687,2012
+12,Luiz Fernando Cirigliano Villela,Unicamp - Universidade Estadual de Campinas,Campinas,SP,0,9650,2012
+13,Luiz Rodrigo S. de Souza,Fundacao Nokia de Ensino,Manaus,AM,0,8675,2012
+14,Gabriel Tessaroli Giancristofaro,Instituto de Ciências Matemáticas e de Computação - Usp,São Carlos,SP,0,8650,2012
+15,Rémy de Fru,Universidade Federal de Campina Grande,Campina Grande,PB,0,8500,2012
+16,Matheus Vitti Santos,Ime-usp,São Paulo,SP,0,8450,2012
+17,Gustavo Spelzon Caparica,Ime-usp,São Paulo,SP,0,8237,2012
+18,Ivan Tadeu Ferreira Antunes Filho,Colégio Objetivo,São Paulo,SP,HM,8000,2012
+18,Lincoln de Queiroz Vieira,Organização Educacional Farias Brito,Fortaleza,CE,HM,8000,2012
+18,Ramon Silva de Lima,Colégio Objetivo,São Paulo,SP,HM,8000,2012
+18,Raul Dario Cabrera Tapia,Colégio Objetivo,São Paulo,SP,HM,8000,2012
+18,Thiago Estrela Montenegro,Colégio Ari de Sá - Aldeota,Fortaleza,CE,HM,8000,2012
+23,Renato Higor do Nascimento,Escola Agrícola de Jundiaí - Ufrn,Macaíba,RN,HM,7925,2012
+24,João Baptista de Paula e Silva,Centro Federal de Educação Tecnológica de Minas Gerais,Belo Horizonte,MG,HM,7750,2012
+7,Jonathan Coutinho Luz de Queiroz,Colégio Sartre Seb Coc,Salvador,BA,0,10425,2012
+8,Gabriel Lima Guimarães,Faesa - Faculdades Integradas Espírito-santenses,Vitória,ES,0,9750,2012
+8,Guilherme Migliato Marega,Instituto de Ciências Matemáticas e de Computação - Usp,São Carlos,SP,0,9750,2012
+8,Michel Rozenberg Zelazny,Colégio Etapa,São Paulo,SP,0,9750,2012
+1,Renato Ferreira Pinto Junior,Ime Usp,São Paulo,SP,0,10500,2013
+2,Michel Rozenberg Zelazny,Colégio Etapa,São Paulo,SP,0,10250,2013
+3,Ramon Silva de Lima,Ime Usp,São Paulo,SP,0,9225,2013
+4,Mateus Bezrutchka,Colégio Etapa,São Paulo,SP,0,7587,2013
+5,Arthur Pratti Dadalto,Faesa - Faculdades Integradas Espirito-santense,Vitória,ES,0,7212,2013
+6,Arthur Ferreira do Nascimento,Colégio Etapa,São Paulo,SP,0,7000,2013
+7,Mateus Carvalho Dantas,Universidade Federal de Campina Grande,Campina Grande,PB,0,6750,2013
+8,Rubens Martins Bezerra Farias,Organização Educacional Farias Brito,Fortaleza,CE,0,6650,2013
+9,Rafael Rodrigues Rocha de Melo,Colégio Ari de Sá Cavalcante - Duque de Caxias,Fortaleza,CE,0,6375,2013
+10,Jonathan Coutinho Luz de Queiroz,Colégio Sartre Seb Coc,Salvador,BA,0,6125,2013
+11,Victor de Oliveira Colombo,Colegio Objetivo,São Paulo,SP,0,6087,2013
+12,Carolina Lima Guimarães,Faesa - Faculdades Integradas Espirito-santense,Vitória,ES,0,5962,2013
+12,Lucas Martins Fares,Colégio Etapa,São Paulo,SP,0,5962,2013
+14,Felipe Brandão Forte,Organização Educacional Farias Brito,Fortaleza,CE,0,5950,2013
+15,Pedro Freire M. Pontes,Colegio Santo Antonio,Belo Horizonte,MG,0,5912,2013
+16,Lucca Morais de Arruda Siaudzionis,Organização Educacional Farias Brito,Fortaleza,CE,0,5887,2013
+17,Henrique Martinez Rocamora,Colégio Etapa,São Paulo,SP,0,5837,2013
+18,Victor da Rocha Sales,Organização Educacional Farias Brito,Fortaleza,CE,0,5662,2013
+19,André Cordeiro Santos de Queiroz,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,5450,2013
+20,Raul Dario Cabrera Tapia,Colegio Objetivo,São Paulo,SP,HM,5375,2013
+20,Renato Higor do Nascimento,Ufrn,Natal,RN,HM,5375,2013
+22,Joao Baptista de Paula e Silva,Cefet-MG,Belo Horizonte,MG,HM,5337,2013
+23,Ordan Silva Santos,IFPB-CG,Campina Grande,PB,HM,5287,2013
+24,Lucas Rodrigues Keiler,Organização Educacional Farias Brito,Fortaleza,CE,HM,5250,2013
+25,Lucas Cawai Juliao Pereira,Organização Educacional Farias Brito,Fortaleza,CE,HM,5162,2013
+26,Lucas de Matos Figueredo,Universidade Federal de Campina Grande,Campina Grande,PB,HM,5075,2013
+1,Lucas de Matos Figueredo,Universidade Federal de Campina Grande,Campina Grande,PB,0,10500,2014
+2,Rafael Rodrigues Rocha Melo,Intituto Militar de Engenharia,Rio de Janeiro,RJ,0,9100,2014
+3,Jonathan Coutinho Luz de Queiroz,Unifacs,Salvador,BA,0,8500,2014
+4,Caio Cesar Saldanha Maia Orejuela Kinelski,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7900,2014
+4,Lucas Torres de Souza,Ufrn,Natal,RN,0,7900,2014
+6,Tiago Koji Castro Shibata,Ime-usp,São Paulo,SP,0,7860,2014
+7,Lucas Lugão Guimarães,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7300,2014
+8,Victor de Oliveira Colombo,Ime-usp,São Paulo,SP,0,6300,2014
+9,Lucas França de Oliveira,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,5700,2014
+9,Victor Andrade de Almeida,Universidade Federal de Campina Grande,Campina Grande,PB,0,5700,2014
+11,Gabriel Augusto Alves Taets,Universidade Federal de Itajubá,Itajubá,MG,0,5530,2014
+12,George Patton de Oliveira Silva,Universidade Federal de Itajubá,Itajubá,MG,0,5500,2014
+13,Tatiana Viana Padrão,Centro de Informática - Ufpe,Recife,PE,HM,5330,2014
+14,Rebeca Calazans de Brito,Intituto Militar de Engenharia,Rio de Janeiro,RJ,HM,5230,2014
+15,Eduardo Naslausky,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,5130,2014
+16,Lucas Cawai Julião Pereira,Intituto Militar de Engenharia,Rio de Janeiro,RJ,HM,5100,2014
+17,Caio Guimarães Herrera,Universidade Federal de São Carlos,São Carlos,SP,HM,5030,2014
+17,Gustavo Monteiro Alves,Universidade Federal de Campina Grande,Campina Grande,PB,HM,5030,2014
+17,Roger Leite Lucena,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,5030,2014
+20,Thiago Luis Azevedo Maia,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,5020,2014
+21,Igor Carpanese Figueiredo,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,5000,2014
+22,Karina Livramento dos Santos,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,4900,2014
+23,Hélio Bezerra Duarte Filho,Ufrn,Natal,RN,HM,4700,2014
+24,Jhúlia Graziella de Souza Rodrigues,Algar Telecom,Uberlândia,MG,HM,4540,2014
+1,Gabriel Fernandes de Oliveira,Ime-usp,São Paulo,SP,0,9300,2015
+1,Ordan Silva Santos,Universidade Federal de Campina Grande,Campina Grande,PB,0,9300,2015
+3,Lucas de Oliveira Pacheco,Instituto de Ciencias Matematicas e de Computacao - Icmc/usp,São Carlos,SP,0,8310,2015
+4,Gustavo Bezerra Ribeiro,"Instituto Federal de Educação, Ciências e Tecnologia da Pb",Campina Grande,PB,0,8000,2015
+5,Victor Luiz Roquete Forbes,Instituto de Ciencias Matematicas e de Computacao - Icmc/usp,São Carlos,SP,0,7740,2015
+6,Guilherme Silva de Oliveira,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7100,2015
+7,Gabriel Oliveira Martins,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7050,2015
+8,Thiago Gonçalves Marback,Unicamp,Campinas,SP,0,6970,2015
+9,Victor Aliende da Matta,Ime-usp,São Paulo,SP,0,6850,2015
+10,Rafael do Nascimento Ribeiro,Ufrn,Natal,RN,0,6500,2015
+11,Emanuel Moraes de Almeida,Ifce - Campus Aracati,Aracati,CE,0,6450,2015
+11,Luis Gustavo Bitencourt Almeida,Ime-usp,São Paulo,SP,0,6450,2015
+13,Victor Andrade de Almeida,Universidade Federal de Campina Grande,Campina Grande,PB,0,6410,2015
+14,João Felipe Porto de Albuquerque,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,0,6350,2015
+15,Thomas Vaitses Fontanari,Universidade Federal do Rio Grande do Sul (ufrgs),Porto Alegre,RS,HM,5830,2015
+16,Luis Fernando Wadt Assis,Ime-usp,São Paulo,SP,HM,5800,2015
+17,Gabriel de Russo e Carmo,Ime-usp,São Paulo,SP,HM,5750,2015
+17,Marcelo Baiano Pastorino Trylesinski,Ime-usp,São Paulo,SP,HM,5750,2015
+19,Maycon Geraldo Alves,Instituto Nacional de Telecomunicações,Santa Rita do Sapucaí,MG,HM,5700,2015
+20,Caio Eduardo Candido,Instituto de Ciencias Matematicas e de Computacao - Icmc/usp,São Carlos,SP,HM,5650,2015
+20,Yuri Cardoso Santamarina,Algar Telecom,Uberlândia,MG,HM,5650,2015
+22,Mateus Ferreira Soares Costa,Instituto Multidisciplinar - Ufrrj,Nova Iguaçu,RJ,HM,5640,2015
+23,Jedian Marcos Brambilla,Universidade Tecnológica Federal do Paraná,Curitiba,PR,HM,5630,2015
+24,Thiago Brazileiro Martinez,Universidade Federal da Bahia,Salvador,BA,HM,5610,2015
+25,Victor Hugo Fernandes Breder,Ita - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,5570,2015
+26,Rerisson Daniel Matos,"Instituto Federal de Educação, Ciências e Tecnologia da Pb",Campina Grande,PB,HM,5450,2015
+1,Emerson Leonardo Lucena,Universidade Federal de Campina Grande,Campina Grande,PB,0,9300,2016
+2,Victor Agnez Lima,UFRN,Natal,RN,0,9200,2016
+3,Felipe Mota dos Santos,IFPB - João Pessoa,João Pessoa,PB,0,8900,2016
+4,Cezar Abadio Correia Guimarã£es Filho,Instituto de Ciências Matemáticas e de Computação - ICMC/USP,São Carlos,SP,0,7700,2016
+4,Gustavo Bezerra Ribeiro,Universidade Federal de Campina Grande,Campina Grande,PB,0,7700,2016
+4,Misael Mateus Oliveira de Morais,Instituto de Informática - Universidade Federal de Goiás,Goiânia,GO,0,7700,2016
+7,Breno Helfstein Moura,IME-USP,São Paulo,SP,0,6900,2016
+7,João Baptista de Paula e Silva,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,6900,2016
+9,Bruno Eduardo de Oliveira Carvalho,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,6700,2016
+10,Jiang Zhi,Instituto de Ciências Matemáticas e de Computação - ICMC/USP,São Carlos,SP,0,6500,2016
+11,Eric Toshio Endo Soares,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,6400,2016
+11,Felipe Vieira Coimbra,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,6400,2016
+11,Gabriel Oliveira Lefundes,IME-USP,São Paulo,SP,0,6400,2016
+14,Leonardo Akira Shimabukuro,IME-USP,São Paulo,SP,HM,5620,2016
+15,Rodrigo Seiji Piubeli Hirao,Unicamp,Campinas,SP,HM,5600,2016
+16,Ubiratan Correia Barbosa Neto,Universidade Federal da Bahia,Salvador,BA,HM,5500,2016
+17,Juan Freire Dantas Galvão,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,5425,2016
+18,Gustavo de Andrade Couto Policarpo,Instituto Nacional de Telecomunicações,Santa Rita do Sapucaí,MG,HM,5200,2016
+19,Ataide Ramos da Paz Neto,Universidade Federal de Alagoas,Maceió,AL,HM,4900,2016
+19,Pedro Teotonio de Sousa,IME-USP,São Paulo,SP,HM,4900,2016
+21,Víctor Cora Colombo,Departamento Computação - Universidade Federal de São Carlos,São Carlos,SP,HM,4825,2016
+22,Eduardo Nunes Velloso,UFRN,Natal,RN,HM,4800,2016
+22,Igor Mourão Ribeiro,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,4800,2016
+22,Thiago Melo Delgado Azevedo,Centro de Informática - Ufpe,Recife,PE,HM,4800,2016
+25,Pedro Vítor Bortolli Santos,IME-USP,São Paulo,SP,HM,4750,2016
+25,Raphael dos Reis Gusmão,IME-USP,São Paulo,SP,HM,4750,2016
+27,Luiz Eduardo Simões,Universidade Federal do Paraná,Curitiba,PR,HM,4700,2016
+28,Igor Albuquerque Silva,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,4525,2016
+1,Emerson Leonardo Lucena,Universidade Federal de Campina Grande,Campina Grande,PB,0,10500,2017
+1,Gustavo Bezerra Ribeiro,Universidade Federal de Campina Grande,Campina Grande,PB,0,10500,2017
+3,William Hideki Kondo,IME-USP,São Paulo,SP,0,10400,2017
+4,Gustavo Nunes de Oliveira,Algar Telecom - Ufu,Uberlândia,MG,0,10125,2017
+5,Felipe Mota dos Santos,Universidade Federal de Campina Grande,Campina Grande,PB,0,9900,2017
+6,Bruno Uchôa Cirne,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,9781,2017
+7,Daniel Bezerra Galvão Mitre,Universidade Federal de Campina Grande,Campina Grande,PB,0,7975,2017
+8,Gabriel de Azevedo Pessoa,Centro de Informática - Ufpe,Recife,PE,0,7712,2017
+9,Vitor Rossi Speranza,ICMC - USP,São Carlos,SP,0,7175,2017
+10,Matheus Resende Guedes,Universidade Federal de Minas Gerais,Belo Horizonte,MG,0,7108,2017
+11,Ricardo Macedo Pacheco,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,7000,2017
+12,Vinícius Serra Silva de Melo,Centro de Informática - Ufpe,Recife,PE,0,6750,2017
+13,Bezaliel da Conceição Silva,Centro de Informática - Ufpe,Recife,PE,0,6383,2017
+14,Clodes Fernando de Morais Silva,Centro de Informática - Ufpe,Recife,PE,0,6000,2017
+15,Welerson Augusto Lino de Jesus Melo,Universidade Federal de Sergipe,São Cristóvão,SE,0,5891,2017
+16,Gabriel Felipe Cardoso Gomes,Universidade Federal de Campina Grande,Campina Grande,PB,0,5808,2017
+16,Raphael Medeiros Vieira,ICMC - USP,São Carlos,SP,0,5808,2017
+18,Caio Tácito Borges da Costa,Ifmg - Campus Ouro Preto,Ouro Preto,MG,HM,5350,2017
+19,Andrês Rodrigues Oliveira,Ifsuldeminas - Campus Muzambinho,Muzambinho,MG,HM,5341,2017
+19,Luís Vinícius Omar Baldissera,Unesp - Rio Preto,São José do Rio Preto,SP,HM,5341,2017
+21,Daniel Quintao de Moraes,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,5333,2017
+22,Henrique de Souza Santana,Universidade Federal de Viçosa - Campus Florestal,Florestal,MG,HM,5308,2017
+23,Daniel de Almeida Cruz da Cunha,Universidade de Passo Fundo - Upf,Passo Fundo,RS,HM,5150,2017
+24,Victor Pinheiro Aguiar Silva,Universidade Federal da Bahia,Salvador,BA,HM,4991,2017
+25,Bruno Benicio Oliveira,Universidade Federal Rural do Rio de Janeiro,Nova Iguaçu,RJ,HM,4900,2017
+26,Gabriel José dos Santos Costa Rufino,Centro de Informática - Ufpe,Recife,PE,HM,4833,2017
+27,ítallo de Sousa Silva,IFPB - Campus Guarabira,Guarabira,PB,HM,4770,2017
+1,Matheus Oliveira Pereira,Universidade Federal de Campina Grande,Campina Grande,PB,0,500,2018
+10,Gustavo Vinicius Vieira Silva Soares,ICMC - USP,São Carlos,SP,0,475,2018
+11,Felipe Cunha Cardoso,Universidade Federal do Pará,Belém,PA,0,475,2018
+12,Carlos Eduardo de Santana Bastos,Universidade Federal do Piauí,Teresina,PI,0,440,2018
+13,Alyson Noronha Bezerra Silva,"IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará",Fortaleza,CE,0,420,2018
+14,Tamiris Fernandes Tinelli,ICMC - USP,São Carlos,SP,0,415,2018
+15,Anderson Kleber Dantas,Universidade Federal de Campina Grande,Campina Grande,PB,0,415,2018
+16,Marcos Felipe Belisário Costa,Algar Telecom,Uberlândia,MG,0,400,2018
+17,José Gabriel Silva Pereira,Centro de Informática - UFPE,Recife,PE,0,395,2018
+18,Leonardo Andrade Joau e Silva,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,375,2018
+19,Wesly Carmesini Ataide,Universidade Federal de Santa Catarina,Florianópolis,SC,HM,375,2018
+2,Ivan de ávila Ribeiro Carvalho,Unicamp,Campinas,SP,0,500,2018
+20,Mateus Siqueira Thimóteo,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,360,2018
+21,Evandro Nakayama Mota,IME-USP,São Paulo,SP,HM,345,2018
+22,Daniel de Matos Figueredo,Universidade Federal de Campina Grande,Campina Grande,PB,HM,335,2018
+23,Ricardo Felipe Rosada Canesin,IME-USP,São Paulo,SP,HM,335,2018
+24,Francisco Namias Vicente,Unicamp,Campinas,SP,HM,325,2018
+25,André Luís Mendes Fakhoury,ICMC - USP,São Carlos,SP,HM,325,2018
+26,Carlos Fabiano Renner,Instituto Federal Sul-rio-grandense - Câmpus Sapucaia do Sul,Sapucaia do Sul,RS,HM,310,2018
+27,Evandro Carlos Silva B. Junior,Fipp/unoeste,Presidente Prudente,SP,HM,305,2018
+28,Gabriel Henrique Cabezas Assis,Instituto Militar de Engenharia,Rio de Janeiro,RJ,HM,305,2018
+29,Gustavo Vilar de Farias,Universidade Federal de Campina Grande,Campina Grande,PB,HM,300,2018
+3,Davi Bonfim Moraes Morant de Holanda,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,500,2018
+30,Danilo Marinho Fernandes,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,300,2018
+31,Caio Chaves Bezerra Rocha,Instituto Militar de Engenharia,Rio de Janeiro,RJ,HM,300,2018
+32,Diego Dantas Figueiredo,Universidade Federal do Pará,Belém,PA,HM,300,2018
+33,Daniel Adler Levacov,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,300,2018
+33,Vinícius Lemos de Aguiar,Instituto Nacional de Telecomunicações,Santa Rita do Sapucaí,MG,HM,300,2018
+4,Carlos Vinícios Ferreira Santos,Universidade Federal de Sergipe,São Cristóvão,SE,0,500,2018
+5,Gabriel Alves Tavares,Universidade Federal de Campina Grande,Campina Grande,PB,0,500,2018
+6,Gabriel Felipe Cardoso Gomes,Universidade Federal de Campina Grande,Campina Grande,PB,0,500,2018
+6,Lucas Castro de Souza,Icomp - Universidade Federal do Amazonas,Manaus,AM,0,500,2018
+8,Bruno Gorresen Mello,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,500,2018
+8,José Amândio Ferreira dos Santos,Universidade Federal de Campina Grande,Campina Grande,PB,0,500,2018
+1,Leonardo Alves Riether,Universidade de Brasília - Campus Darcy Ribeiro,Brasília,DF,0,500,2019
+10,Thiago Sena de Queiroz,ICMC - USP,São Carlos,SP,0,350,2019
+11,Nacib Abrahão Neme Neto,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,350,2019
+12,Pedro Giovani Duarte Poppolino,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,0,350,2019
+13,Felipe Chen Wu,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,0,350,2019
+14,Davi de Menezes Pereira,IME-USP,São Paulo,SP,0,350,2019
+15,Rennan Rocha de Freitas,Universidade Federal de Campina Grande,Campina Grande,PB,0,340,2019
+16,Marcos Siolin Martins,IME-USP,São Paulo,SP,0,340,2019
+17,Kenji de Souza Yamane,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,330,2019
+18,Lucas Brenner Herculano e Albuquerque,Universidade Federal de Campina Grande,Campina Grande,PB,0,330,2019
+19,Gabriel Pereira de Carvalho,IME-USP,São Paulo,SP,HM,320,2019
+2,Ygor Ribeiro Costa,Ifsuldeminas - Campus Muzambinho,Muzambinho,MG,0,430,2019
+20,Gabriel Húglio Pineli Simões,Pontifícia Universidade Católica de Goiás - Puc Goiás,Goiânia,GO,HM,320,2019
+21,Gabriel Cosme Barbosa,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Vitória",Vitória,ES,HM,320,2019
+22,Emanuel Juliano Morais Silva,Universidade Federal de Minas Gerais,Belo Horizonte,MG,HM,310,2019
+23,Lucas Andrade Marques,Inatel - Instituto Nacional de Telecomunicações,Santa Rita do Sapucaí,MG,HM,310,2019
+24,Eliton Machado da Silva,Udesc - Universidade do Estado de Santa Catarina,Joinville,SC,HM,310,2019
+25,Raphael de Paula Fonseca,Universidade Federal de Campina Grande,Campina Grande,PB,HM,310,2019
+26,Vitor Rodarte Ricoy,Universidade Federal de Minas Gerais,Belo Horizonte,MG,HM,300,2019
+27,Gustavo Farani de Farias,Centro de Informática - UFPE,Recife,PE,HM,300,2019
+28,Ana Leticia Albuquerque Santos,Centro de Informática - UFPE,Recife,PE,HM,300,2019
+29,Vinícius Lettiéri Proença,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,HM,300,2019
+3,Frederico Bulhões de Souza Ribeiro,ICMC - USP,São Carlos,SP,0,400,2019
+30,Tiago de Souza Fernandes,Universidade de Brasília - Campus Darcy Ribeiro,Brasília,DF,HM,290,2019
+31,Thiago Henrique Genaio Mai,Universidade Federal do Espírito Santo,Vitória,ES,HM,290,2019
+32,Leandro Rodrigues Rocha,Universidade Federal de Ouro Preto,Ouro Preto,MG,HM,280,2019
+33,Bernardo Teixeira de Amorim Neto,Universidade Federal de Minas Gerais,Belo Horizonte,MG,HM,280,2019
+34,Maria Eduarda Costa Leite Andrade,Inatel - Instituto Nacional de Telecomunicações,Santa Rita do Sapucaí,MG,HM,280,2019
+4,Gabriel Tostes Messias Pereira,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,400,2019
+5,Artur César Araújo Alves,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,400,2019
+6,Dikson Ferreira dos Santos,ICMC - USP,São Carlos,SP,0,390,2019
+7,Bruno de Melo Costa,Centro de Informática - UFPE,Recife,PE,0,380,2019
+8,Luan Arjuna Fraga Ramires,ICMC - USP,São Carlos,SP,0,360,2019
+9,Luiz Gustavo Silva Aguiar,Unicamp,Campinas,SP,0,360,2019
+1,Igor Brito Andrade,Unicamp,Campinas,SP,0,480,2020
+1,Naim Shaikhzadeh Santos,Unicamp,Campinas,SP,0,480,2020
+12,João Marcos Cardoso da Silva,Universidade de São Paulo - ICMC,São Carlos,SP,0,310,2020
+12,Lorenzo Bertin Salvador,IME-USP,São Paulo,SP,0,310,2020
+12,Léo Marco de Assis Hardt,Instituto Federal do Rio Grande do Sul / Canoas,Canoas,RS,0,310,2020
+15,Cirilo Max Macedo de Morais Filho,Unicamp,Campinas,SP,0,300,2020
+15,Mariano Glauber Torres Fernandes,Universidade Federal de Minas Gerais,Belo Horizonte,MG,0,300,2020
+15,Markson de Viana Arguello,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,0,300,2020
+15,Nícolas Hecker Silva,Unicamp,Campinas,SP,0,300,2020
+15,Rembrandt Asafe Vasconcelos Costa,Universidade Federal de Campina Grande,Campina Grande,PB,0,300,2020
+15,Sofhia de Souza Gonçalves,Universidade de São Paulo - ICMC,São Carlos,SP,0,300,2020
+15,Thalisson Alves Gonçalves de Jesus,Universidade de Brasília - Faculdade Unb Gama,Brasília,DF,0,300,2020
+15,Victor Paulo Cruz Lutes,Universidade de São Paulo - ICMC,São Carlos,SP,0,300,2020
+23,Andevaldo da Encarnação Vitório,Instituto de Computação - Universidade Federal do Amazonas,Manaus,AM,HM,290,2020
+23,Victor Manuel Brito Santos,Universidade de Brasília - Campus Darcy Ribeiro,Brasília,DF,HM,290,2020
+25,Brendon Diniz Borck,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,280,2020
+26,Gabriel Silva de Oliveira,Centro de Informática - UFPE,Recife,PE,HM,250,2020
+26,João Vitor Silva Luciano,Universidade Federal de Campina Grande,Campina Grande,PB,HM,250,2020
+26,Matheus Rocha Monteiro,Universidade Federal do Ceará - Campus de Quixadá,Quixadá,CE,HM,250,2020
+26,Rian Radeck Santos Costa,Unicamp,Campinas,SP,HM,250,2020
+3,Nathan Luiz Bezerra Martins,IME-USP,São Paulo,SP,0,420,2020
+4,Edson Eidi Hossotani,Universidade Federal do ABC,Santo André,SP,0,400,2020
+4,Gerson Vinicius Rodrigues de Macedo,Universidade Federal do Vale do São Francisco,Juazeiro,BA,0,400,2020
+6,Davi Henrique Silva Guimarães,Universidade Federal de Campina Grande,Campina Grande,PB,0,340,2020
+7,Andrei Freiberger,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,0,320,2020
+7,Gustavo Araújo Morais,Unicamp,Campinas,SP,0,320,2020
+7,Gustavo Figueiredo Luz,Inatel - Instituto Nacional de Telecomunicações,Santa Rita do Sapucaí,MG,0,320,2020
+7,Tales Perroni Nicoletti,Unicamp,Campinas,SP,0,320,2020
+7,Thiago Prado de Azevedo Andrade,UFF,Niterói,RJ,0,320,2020
+1,Bernardo Panka Archegas,Unicamp,Campinas,SP,0,500,2021
+1,Yan Matheus Tavares e Silva,Unicamp,Campinas,SP,0,500,2021
+10,Arthur Bittencourt Hoff,Universidade Federal do Rio Grande do Sul (ufrgs),Porto Alegre,RS,0,428,2021
+10,Davi Henrique Silva Guimarães,Universidade Federal de Campina Grande,Campina Grande,PB,0,428,2021
+10,Victor Manuel Brito Santos,Universidade de Brasília,Brasília,DF,0,428,2021
+13,Matheus Oliveira Mews,Universidade Federal do Rio Grande do Sul (ufrgs),Porto Alegre,RS,0,407,2021
+13,Robson Bruno Alves Pinheiro,Universidade Federal de Alagoas,Maceió,AL,0,407,2021
+15,Wallace Ben Teng Lin Wu,Universidade de Brasília,Brasília,DF,0,398,2021
+16,Daniel Henrique Lelis de Almeida,Universidade de São Paulo - ICMC,São Carlos,SP,0,397,2021
+17,Daniel Yuji Hosomi,Unicamp,Campinas,SP,0,387,2021
+18,Lucas Emanuel Silva Melo,Universidade Federal de Campina Grande,Campina Grande,PB,0,378,2021
+19,Mateus Sze Cosenza,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,377,2021
+20,Vítor Eduardo Costa Santos,IME-USP,São Paulo,SP,0,368,2021
+21,Antonio Italo Lima Lopes,Universidade de São Paulo - ICMC,São Carlos,SP,0,357,2021
+21,Julia Retore,Udesc - Universidade do Estado de Santa Catarina,Joinville,SC,0,357,2021
+23,Artur Gaspar da Silva,Universidade Federal de Minas Gerais,Belo Horizonte,MG,0,347,2021
+24,Lucas Katib do Amaral,Universidade Federal de São Carlos - Campus Sorocaba,Sorocaba,SP,0,340,2021
+25,Rembrandt Asafe Vasconcelos Costa,Universidade Federal de Campina Grande,Campina Grande,PB,0,337,2021
+26,Gabriel Ribeiro Paiva,Unicamp,Campinas,SP,0,328,2021
+26,Pedro César Mesquita Ferreira,Universidade Federal de Minas Gerais,Belo Horizonte,MG,0,328,2021
+26,Pedro Henrique Gallio Bulcão,Instituto Militar de Engenharia,Rio de Janeiro,RJ,0,328,2021
+29,Lucas Ferreira Melick,Universidade Federal do Rio de Janeiro,Rio de Janeiro,RJ,0,320,2021
+3,Willian Miura Mori,IME-USP,São Paulo,SP,0,490,2021
+30,João Vitor Silva Luciano,Universidade Federal de Campina Grande,Campina Grande,PB,HM,309,2021
+30,Marcos Reges Mota,Instituto de Informática - Universidade Federal de Goiás,Goiânia,GO,HM,309,2021
+32,Pedro de Carvalho Gallo Pereira,Universidade de Brasília,Brasília,DF,HM,308,2021
+33,Felipe Reis Spirandelli,ITA - Instituto Tecnológico de Aeronáutica,São José dos Campos,SP,HM,307,2021
+33,Geovane Martins Schmitz,Instituto Federal de Santa Catarina - Campus Florianópolis,Florianópolis,SC,HM,307,2021
+4,Kaio Henrique Masse Vieira,Universidade Federal de Minas Gerais,Belo Horizonte,MG,0,460,2021
+4,Kenzo Yves Yamashita Nobre,Universidade de São Paulo - ICMC,São Carlos,SP,0,460,2021
+4,Luiz Henrique Yuji Delgado Oda,Unicamp,Campinas,SP,0,460,2021
+4,Matheus Henrique de Sousa Silva,Unicamp,Campinas,SP,0,460,2021
+8,Abraão Caiana de Freitas,Universidade Federal de Campina Grande,Campina Grande,PB,0,438,2021
+9,Luiz Fernando Batista Morato,Unicamp,Campinas,SP,0,429,2021
